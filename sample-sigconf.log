@@ -1,9 +1,12 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.19 (MiKTeX 2.9.6930) (preloaded format=pdflatex 2019.1.18)  18 JAN 2019 23:57
+This is pdfTeX, Version 3.14159265-2.6-1.40.19 (MiKTeX 2.9.6930) (preloaded format=pdflatex 2019.1.18)  19 JAN 2019 11:06
 entering extended mode
-**/Users/rakesh/Downloads/ExampleLatex/BasedOnACM/sample-sigconf.tex
-(/Users/rakesh/Downloads/ExampleLatex/BasedOnACM/sample-sigconf.tex
+**/Users/rakesh/Documents/ASU/Classes/Sem4/SER574/SER574_Assignment1/sample-sig
+conf.tex
+
+(/Users/rakesh/Documents/ASU/Classes/Sem4/SER574/SER574_Assignment1/sample-sigc
+onf.tex
 LaTeX2e <2018-12-01>
-(/Users/rakesh/Downloads/ExampleLatex/BasedOnACM/acmart.cls
+(/Users/rakesh/Documents/ASU/Classes/Sem4/SER574/SER574_Assignment1/acmart.cls
 Document Class: acmart 2018/12/16 v1.57 Typesetting articles for the Associatio
 n for Computing Machinery
 
@@ -1401,35 +1404,14 @@ LaTeX Font Info:    Font shape `OT1/LinuxLibertineT-TLF/m/n' will be
 Class acmart Warning: \vspace should only be used to provide space above/below 
 surrounding objects on input line 57.
 
-
-LaTeX Warning: Reference `fig:teaser' on page 1 undefined on input line 61.
-
-
-Class acmart Warning: \vspace should only be used to provide space above/below 
-surrounding objects on input line 64.
-
-
-Class acmart Warning: \vspace should only be used to provide space above/below 
-surrounding objects on input line 64.
-
-<sampleteaser.pdf, id=8, 2055.68pt x 511.9125pt>
-File: sampleteaser.pdf Graphic file (type pdf)
-<use sampleteaser.pdf>
-Package pdftex.def Info: sampleteaser.pdf  used on input line 64.
-(pdftex.def)             Requested size: 253.14749pt x 63.03593pt.
-
-Overfull \hbox (12.0pt too wide) in paragraph at lines 64--65
- [][] 
- []
-
-LaTeX Font Info:    Try loading font information for T1+zi4 on input line 75.
+LaTeX Font Info:    Try loading font information for T1+zi4 on input line 70.
 
 ("/Users/rakesh/Library/Application Support/MiKTeX/texmfs/install/tex/latex/inc
 onsolata/t1zi4.fd"
 File: t1zi4.fd 2018/01/14 T1/zi4 (Inconsolata)
 )
 LaTeX Font Info:    Font shape `T1/zi4/m/n' will be
-(Font)              scaled to size 9.0pt on input line 75.
+(Font)              scaled to size 9.0pt on input line 70.
 Package microtype Info: Loading generic protrusion settings for font family
 (microtype)             `zi4' (encoding: T1).
 (microtype)             For optimal results, create family-specific settings.
@@ -1442,183 +1424,172 @@ Package microtype Info: Character `textemdash ' is missing
 (microtype)             Ignoring protrusion settings for this character.
 
 
-LaTeX Warning: Reference `tab:freq' on page 1 undefined on input line 113.
+LaTeX Warning: Reference `tab:commands' on page 1 undefined on input line 109.
 
 
 Class acmart Warning: \vspace should only be used to provide space above/below 
-surrounding objects on input line 116.
+surrounding objects on input line 112.
 
 
 Class acmart Warning: \vspace should only be used to provide space above/below 
-surrounding objects on input line 116.
-
-
-LaTeX Warning: Reference `tab:commands' on page 1 undefined on input line 131.
-
-
-Class acmart Warning: \vspace should only be used to provide space above/below 
-surrounding objects on input line 134.
-
-
-Class acmart Warning: \vspace should only be used to provide space above/below 
-surrounding objects on input line 134.
+surrounding objects on input line 112.
 
 
 Package natbib Warning: Citation `Lamport:LaTeX' on page 1 undefined on input l
-ine 161.
+ine 139.
 
 [1.1{/Users/rakesh/Library/Application Support/MiKTeX/texmfs/data/pdftex/config
 /pdftex.map}
 
- </Users/rakesh/Downloads/ExampleLatex/BasedOnACM/sampleteaser.pdf>]
-Overfull \hbox (2.14551pt too wide) in paragraph at lines 183--186
+]
+Overfull \hbox (2.14551pt too wide) in paragraph at lines 161--164
 \T1/LinuxLibertineT-TLF/m/n/9 (-20) Notice how it is formatted somewhat differe
 ntly in the \T1/LinuxLibertineT-TLF/b/n/9 displaymath 
  []
 
 LaTeX Font Info:    Font shape `T1/LinuxLibertineT-TLF/m/sc' will be
-(Font)              scaled to size 9.0pt on input line 204.
+(Font)              scaled to size 9.0pt on input line 182.
 
-Overfull \hbox (1.91925pt too wide) in paragraph at lines 213--214
+Overfull \hbox (1.91925pt too wide) in paragraph at lines 191--192
 []\T1/LinuxLibertineT-TLF/m/n/9 (-20) Citations and references are numbered by 
 default. A small number
  []
 
 
-Package natbib Warning: Citation `Abril07' on page 2 undefined on input line 21
-8.
+Package natbib Warning: Citation `Abril07' on page 2 undefined on input line 19
+6.
 
 
-Package natbib Warning: Citation `Cohen07' on page 2 undefined on input line 21
-8.
+Package natbib Warning: Citation `Cohen07' on page 2 undefined on input line 19
+6.
 
 
-Package natbib Warning: Citation `JCohen96' on page 2 undefined on input line 2
-18.
+Package natbib Warning: Citation `JCohen96' on page 2 undefined on input line 1
+96.
 
 
-Package natbib Warning: Citation `Kosiur01' on page 2 undefined on input line 2
-18.
+Package natbib Warning: Citation `Kosiur01' on page 2 undefined on input line 1
+96.
 
 
-Package natbib Warning: Citation `Harel79' on page 2 undefined on input line 21
-9.
+Package natbib Warning: Citation `Harel79' on page 2 undefined on input line 19
+7.
 
 
-Package natbib Warning: Citation `Editor00' on page 2 undefined on input line 2
-19.
+Package natbib Warning: Citation `Editor00' on page 2 undefined on input line 1
+97.
 
 
 Package natbib Warning: Citation `Editor00a' on page 2 undefined on input line 
-219.
+197.
 
 
 Package natbib Warning: Citation `Spector90' on page 2 undefined on input line 
-220.
+198.
 
 
 Package natbib Warning: Citation `Douglass98' on page 2 undefined on input line
- 220.
+ 198.
 
 
-Package natbib Warning: Citation `Knuth97' on page 2 undefined on input line 22
-0.
+Package natbib Warning: Citation `Knuth97' on page 2 undefined on input line 19
+8.
 
 
-Package natbib Warning: Citation `Andler79' on page 2 undefined on input line 2
-20.
+Package natbib Warning: Citation `Andler79' on page 2 undefined on input line 1
+98.
 
 
-Package natbib Warning: Citation `Smith10' on page 2 undefined on input line 22
-0.
+Package natbib Warning: Citation `Smith10' on page 2 undefined on input line 19
+8.
 
 
 Package natbib Warning: Citation `VanGundy07' on page 2 undefined on input line
- 220.
+ 198.
 
 
-Package natbib Warning: Citation `Harel78' on page 2 undefined on input line 22
-0.
+Package natbib Warning: Citation `Harel78' on page 2 undefined on input line 19
+8.
 
 
 Package natbib Warning: Citation `Clarkson85' on page 2 undefined on input line
- 220.
+ 198.
 
 
-Package natbib Warning: Citation `anisi03' on page 2 undefined on input line 22
-0.
+Package natbib Warning: Citation `anisi03' on page 2 undefined on input line 19
+8.
 
 
 Package natbib Warning: Citation `Thornburg01' on page 2 undefined on input lin
-e 220.
+e 198.
 
 
 Package natbib Warning: Citation `Ablamowicz07' on page 2 undefined on input li
-ne 220.
+ne 198.
 
 
-Package natbib Warning: Citation `Poker06' on page 2 undefined on input line 22
-0.
+Package natbib Warning: Citation `Poker06' on page 2 undefined on input line 19
+8.
 
 
-Package natbib Warning: Citation `Obama08' on page 2 undefined on input line 22
-0.
+Package natbib Warning: Citation `Obama08' on page 2 undefined on input line 19
+8.
 
 
-Package natbib Warning: Citation `Novak03' on page 2 undefined on input line 22
-0.
+Package natbib Warning: Citation `Novak03' on page 2 undefined on input line 19
+8.
 
 
-Package natbib Warning: Citation `Lee05' on page 2 undefined on input line 220.
+Package natbib Warning: Citation `Lee05' on page 2 undefined on input line 198.
 
 
 
 Package natbib Warning: Citation `JoeScientist001' on page 2 undefined on input
- line 220.
+ line 198.
 
 
-Package natbib Warning: Citation `rous08' on page 2 undefined on input line 220
+Package natbib Warning: Citation `rous08' on page 2 undefined on input line 198
 .
 
 
 Package natbib Warning: Citation `SaeediMEJ10' on page 2 undefined on input lin
-e 220.
+e 198.
 
 
 Package natbib Warning: Citation `SaeediJETC10' on page 2 undefined on input li
-ne 220.
+ne 198.
 
 
 Package natbib Warning: Citation `Kirschmer:2010:AEI:1958016.1958018' on page 2
- undefined on input line 220.
+ undefined on input line 198.
 
 
-Package natbib Warning: Citation `MR781536' on page 2 undefined on input line 2
-20.
+Package natbib Warning: Citation `MR781536' on page 2 undefined on input line 1
+98.
 
 
-Package natbib Warning: Citation `MR781537' on page 2 undefined on input line 2
-20.
+Package natbib Warning: Citation `MR781537' on page 2 undefined on input line 1
+98.
 
 
 Package natbib Warning: Citation `2004:ITE:1009386.1010128' on page 2 undefined
- on input line 220.
+ on input line 198.
 
 
 Package natbib Warning: Citation `Kirschmer:2010:AEI:1958016.1958018' on page 2
- undefined on input line 220.
+ undefined on input line 198.
 
 
 Package natbib Warning: Citation `TUGInstmem' on page 2 undefined on input line
- 220.
+ 198.
 
 
 Package natbib Warning: Citation `Thornburg01' on page 2 undefined on input lin
-e 220.
+e 198.
 
 
 Package natbib Warning: Citation `CTANacmart' on page 2 undefined on input line
- 220.
+ 198.
 
 No file sample-sigconf.bbl.
 
@@ -1629,13 +1600,13 @@ Package balance Warning: You have called \balance in second column
 (balance)                Columns might not be balanced.
 
 LaTeX Font Info:    Font shape `T1/LinuxBiolinumT-TLF/m/n' will be
-(Font)              scaled to size 9.0pt on input line 232.
+(Font)              scaled to size 9.0pt on input line 210.
 [2.2]
-Package atveryend Info: Empty hook `BeforeClearDocument' on input line 232.
-Package atveryend Info: Empty hook `AfterLastShipout' on input line 232.
+Package atveryend Info: Empty hook `BeforeClearDocument' on input line 210.
+Package atveryend Info: Empty hook `AfterLastShipout' on input line 210.
  (sample-sigconf.aux)
-Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 232.
-Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 232.
+Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 210.
+Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 210.
 
 
 Package rerunfilecheck Warning: File `sample-sigconf.out' has changed.
@@ -1644,7 +1615,7 @@ Package rerunfilecheck Warning: File `sample-sigconf.out' has changed.
 
 Package rerunfilecheck Info: Checksums for `sample-sigconf.out':
 (rerunfilecheck)             Before: <no file>
-(rerunfilecheck)             After:  8C03D808AA44FFF9D5B3554DAFC8A18E;1400.
+(rerunfilecheck)             After:  D63F79C00B5EB94C4D8990C3721297BB;1445.
 
 LaTeX Warning: There were undefined references.
 
@@ -1653,15 +1624,30 @@ LaTeX Warning: Label(s) may have changed. Rerun to get cross-references right.
 
  ) 
 Here is how much of TeX's memory you used:
- 27360 strings out of 494865
- 464455 string characters out of 3176569
+ 27364 strings out of 494865
+ 464677 string characters out of 3176569
  714104 words of memory out of 3000000
- 30270 multiletter control sequences out of 15000+200000
- 670963 words of font info for 251 fonts, out of 3000000 for 9000
+ 30263 multiletter control sequences out of 15000+200000
+ 672213 words of font info for 260 fonts, out of 3000000 for 9000
  162 hyphenation exceptions out of 8191
- 60i,12n,94p,1347b,439s stack positions out of 5000i,500n,10000p,200000b,50000s
+ 60i,11n,94p,1402b,439s stack positions out of 5000i,500n,10000p,200000b,50000s
 {/Users/rakesh/Library/Application Support/MiKTeX/texmfs/install/fonts/enc/dv
 ips/libertine/lbtn_ncsllp.enc}{/Users/rakesh/Library/Application Support/MiKTeX
-/texmfs/install/fonts/enc/dvips/newtx/libertinealt.enc}
-!pdfTeX error: pdflatex (file rtxr): Font rtxr at 438 not found
- ==> Fatal error occurred, no output PDF file produced!
+/texmfs/install/fonts/enc/dvips/newtx/libertinealt.enc}{/Users/rakesh/Library/A
+pplication Support/MiKTeX/texmfs/install/fonts/enc/dvips/base/8r.enc}{/Users/ra
+kesh/Library/Application Support/MiKTeX/texmfs/install/fonts/enc/dvips/libertin
+e/lbtn_oexx6f.enc}{/Users/rakesh/Library/Application Support/MiKTeX/texmfs/inst
+all/fonts/enc/dvips/libertine/lbtn_25tcsq.enc}{/Users/rakesh/Library/Applicatio
+n Support/MiKTeX/texmfs/install/fonts/enc/dvips/inconsolata/i4-t1-4.enc}{/Users
+/rakesh/Library/Application Support/MiKTeX/texmfs/install/fonts/enc/dvips/liber
+tine/lbtn_naooyc.enc}{/Users/rakesh/Library/Application Support/MiKTeX/texmfs/i
+nstall/fonts/enc/dvips/libertine/lbtn_7grukw.enc}{/Users/rakesh/Library/Applica
+tion Support/MiKTeX/texmfs/install/fonts/enc/dvips/libertine/lbtn_nh77jq.enc}{/
+Users/rakesh/Library/Application Support/MiKTeX/texmfs/install/fonts/enc/dvips/
+libertine/lbtn_76gpa5.enc}</Users/rakesh/Library/Application Support/MiKTeX/tex
+mfs/install/fonts/type1/public/inconsolata/Inconsolata-zi4r.pfb></Users/rakesh/
+Library/Application Support/MiKTeX/texmfs/install/fonts/type1/public/libertine/
+LinBiolinumT.pfb></Users/rakesh/Library/Application Support/MiKTeX/texmfs/insta
+ll/fonts/type1/public/libertine/LinBiolinumTB.pfb></Users/rakesh/Library/Applic
+ation Support/MiKTeX/texmfs/install/fonts/type1/public/libertine/LinLibertineT.
+pfb
