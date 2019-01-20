@@ -3,3 +3,6 @@ https://lithespeed.com/collaboration-in-agile-development-should-agile-teams-wor
 https://www.scaledagileframework.com/agile-teams/
 https://www.planview.com/resources/articles/agile-best-practices-effective-teams/
 https://tech.gsa.gov/guides/Collaboration_Across_Agile_Teams/
+https://www.computer.org/csdl/mags/so/2015/05/mso2015050024.pdf
+www.agilemanifesto.org.
+https://www.scaledagileframework.com/agile-architecture/
