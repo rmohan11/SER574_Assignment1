@@ -1,35 +1,32 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.19 (MiKTeX 2.9.6930) (preloaded format=pdflatex 2019.1.18)  19 JAN 2019 11:06
+This is pdfTeX, Version 3.14159265-2.6-1.40.19 (MiKTeX 2.9.6930 64-bit) (preloaded format=pdflatex 2019.1.19)  20 JAN 2019 01:09
 entering extended mode
-**/Users/rakesh/Documents/ASU/Classes/Sem4/SER574/SER574_Assignment1/sample-sig
-conf.tex
-
-(/Users/rakesh/Documents/ASU/Classes/Sem4/SER574/SER574_Assignment1/sample-sigc
-onf.tex
+**./sample-sigconf.tex
+(sample-sigconf.tex
 LaTeX2e <2018-12-01>
-(/Users/rakesh/Documents/ASU/Classes/Sem4/SER574/SER574_Assignment1/acmart.cls
+(acmart.cls
 Document Class: acmart 2018/12/16 v1.57 Typesetting articles for the Associatio
 n for Computing Machinery
 
-("/Users/rakesh/Library/Application Support/MiKTeX/texmfs/install/tex/latex/xke
-yval/xkeyval.sty"
+("C:\Users\AASA LATHA\AppData\Local\Programs\MiKTeX 2.9\tex/latex/xkeyval\xkeyv
+al.sty"
 Package: xkeyval 2014/12/03 v2.7a package option processing (HA)
 
-("/Users/rakesh/Library/Application Support/MiKTeX/texmfs/install/tex/generic/x
-keyval/xkeyval.tex"
-("/Users/rakesh/Library/Application Support/MiKTeX/texmfs/install/tex/generic/x
-keyval/xkvutils.tex"
+("C:\Users\AASA LATHA\AppData\Local\Programs\MiKTeX 2.9\tex/generic/xkeyval\xke
+yval.tex"
+("C:\Users\AASA LATHA\AppData\Local\Programs\MiKTeX 2.9\tex/generic/xkeyval\xkv
+utils.tex"
 \XKV@toks=\toks14
 \XKV@tempa@toks=\toks15
 
-("/Users/rakesh/Library/Application Support/MiKTeX/texmfs/install/tex/generic/x
-keyval/keyval.tex"))
+("C:\Users\AASA LATHA\AppData\Local\Programs\MiKTeX 2.9\tex/generic/xkeyval\key
+val.tex"))
 \XKV@depth=\count80
 File: xkeyval.tex 2014/12/03 v2.7a key=value parser (HA)
 ))
-("/Users/rakesh/Library/Application Support/MiKTeX/texmfs/install/tex/latex/xst
-ring/xstring.sty"
-("/Users/rakesh/Library/Application Support/MiKTeX/texmfs/install/tex/generic/x
-string/xstring.tex"
+("C:\Users\AASA LATHA\AppData\Local\Programs\MiKTeX 2.9\tex/latex/xstring\xstri
+ng.sty"
+("C:\Users\AASA LATHA\AppData\Local\Programs\MiKTeX 2.9\tex/generic/xstring\xst
+ring.tex"
 \integerpart=\count81
 \decimalpart=\count82
 )
@@ -47,37 +44,37 @@ Package acmart Info: Not using authordraft mode on input line 148.
 Class acmart Info: Using format sigconf, number 4 on input line 157.
 Class acmart Info: Using fontsize 9pt on input line 215.
 
-("/Users/rakesh/Library/Application Support/MiKTeX/texmfs/install/tex/latex/ams
-cls/amsart.cls"
+("C:\Users\AASA LATHA\AppData\Local\Programs\MiKTeX 2.9\tex/latex/amscls\amsart
+.cls"
 Document Class: amsart 2017/10/31 v2.20.4
 \linespacing=\dimen102
 \normalparindent=\dimen103
 \normaltopskip=\skip41
 
-("/Users/rakesh/Library/Application Support/MiKTeX/texmfs/install/tex/latex/ams
-math/amsmath.sty"
+("C:\Users\AASA LATHA\AppData\Local\Programs\MiKTeX 2.9\tex/latex/amsmath\amsma
+th.sty"
 Package: amsmath 2018/12/01 v2.17b AMS math features
 \@mathmargin=\skip42
 
 For additional information on amsmath, use the `?' option.
 
-("/Users/rakesh/Library/Application Support/MiKTeX/texmfs/install/tex/latex/ams
-math/amstext.sty"
+("C:\Users\AASA LATHA\AppData\Local\Programs\MiKTeX 2.9\tex/latex/amsmath\amste
+xt.sty"
 Package: amstext 2000/06/29 v2.01 AMS text
 
-("/Users/rakesh/Library/Application Support/MiKTeX/texmfs/install/tex/latex/ams
-math/amsgen.sty"
+("C:\Users\AASA LATHA\AppData\Local\Programs\MiKTeX 2.9\tex/latex/amsmath\amsge
+n.sty"
 File: amsgen.sty 1999/11/30 v2.0 generic functions
 \@emptytoks=\toks16
 \ex@=\dimen104
 ))
-("/Users/rakesh/Library/Application Support/MiKTeX/texmfs/install/tex/latex/ams
-math/amsbsy.sty"
+("C:\Users\AASA LATHA\AppData\Local\Programs\MiKTeX 2.9\tex/latex/amsmath\amsbs
+y.sty"
 Package: amsbsy 1999/11/29 v1.2d Bold Symbols
 \pmbraise@=\dimen105
 )
-("/Users/rakesh/Library/Application Support/MiKTeX/texmfs/install/tex/latex/ams
-math/amsopn.sty"
+("C:\Users\AASA LATHA\AppData\Local\Programs\MiKTeX 2.9\tex/latex/amsmath\amsop
+n.sty"
 Package: amsopn 2016/03/08 v2.02 operator names
 )
 \inf@bad=\count83
@@ -120,12 +117,12 @@ LaTeX Info: Redefining \] on input line 2845.
 )
 LaTeX Font Info:    Try loading font information for U+msa on input line 398.
 
-("/Users/rakesh/Library/Application Support/MiKTeX/texmfs/install/tex/latex/ams
-fonts/umsa.fd"
+("C:\Users\AASA LATHA\AppData\Local\Programs\MiKTeX 2.9\tex/latex/amsfonts\umsa
+.fd"
 File: umsa.fd 2013/01/14 v3.01 AMS symbols A
 )
-("/Users/rakesh/Library/Application Support/MiKTeX/texmfs/install/tex/latex/ams
-fonts/amsfonts.sty"
+("C:\Users\AASA LATHA\AppData\Local\Programs\MiKTeX 2.9\tex/latex/amsfonts\amsf
+onts.sty"
 Package: amsfonts 2013/01/14 v3.01 Basic AMSFonts support
 \symAMSa=\mathgroup4
 \symAMSb=\mathgroup5
@@ -156,8 +153,8 @@ LaTeX Font Info:    Overwriting math alphabet `\mathfrak' in version `bold'
 \thm@headsep=\skip50
 \dth@everypar=\toks26
 )
-("/Users/rakesh/Library/Application Support/MiKTeX/texmfs/install/tex/latex/mic
-rotype/microtype.sty"
+("C:\Users\AASA LATHA\AppData\Local\Programs\MiKTeX 2.9\tex/latex/microtype\mic
+rotype.sty"
 Package: microtype 2018/01/14 v2.7a Micro-typographical refinements (RS)
 \MT@toks=\toks27
 \MT@count=\count103
@@ -166,8 +163,8 @@ LaTeX Info: Redefining \textls on input line 793.
 LaTeX Info: Redefining \textmicrotypecontext on input line 1339.
 \MT@listname@count=\count104
 
-("/Users/rakesh/Library/Application Support/MiKTeX/texmfs/install/tex/latex/mic
-rotype/microtype-pdftex.def"
+("C:\Users\AASA LATHA\AppData\Local\Programs\MiKTeX 2.9\tex/latex/microtype\mic
+rotype-pdftex.def"
 File: microtype-pdftex.def 2018/01/14 v2.7a Definitions specific to pdftex (RS)
 
 LaTeX Info: Redefining \lsstyle on input line 913.
@@ -176,17 +173,17 @@ LaTeX Info: Redefining \lslig on input line 913.
 )
 Package microtype Info: Loading configuration file microtype.cfg.
 
-("/Users/rakesh/Library/Application Support/MiKTeX/texmfs/install/tex/latex/mic
-rotype/microtype.cfg"
+("C:\Users\AASA LATHA\AppData\Local\Programs\MiKTeX 2.9\tex/latex/microtype\mic
+rotype.cfg"
 File: microtype.cfg 2018/01/14 v2.7a microtype main configuration file (RS)
 ))
-("/Users/rakesh/Library/Application Support/MiKTeX/texmfs/install/tex/latex/eto
-olbox/etoolbox.sty"
+("C:\Users\AASA LATHA\AppData\Local\Programs\MiKTeX 2.9\tex/latex/etoolbox\etoo
+lbox.sty"
 Package: etoolbox 2018/08/19 v2.5f e-TeX tools for LaTeX (JAW)
 \etb@tempcnta=\count105
 )
-("/Users/rakesh/Library/Application Support/MiKTeX/texmfs/install/tex/latex/boo
-ktabs/booktabs.sty"
+("C:\Users\AASA LATHA\AppData\Local\Programs\MiKTeX 2.9\tex/latex/booktabs\book
+tabs.sty"
 Package: booktabs 2005/04/14 v1.61803 publication quality tables
 \heavyrulewidth=\dimen115
 \lightrulewidth=\dimen116
@@ -206,57 +203,57 @@ Package: booktabs 2005/04/14 v1.61803 publication quality tables
 \@lastruleclass=\count109
 \@thisrulewidth=\dimen127
 )
-("/Users/rakesh/Library/Application Support/MiKTeX/texmfs/install/tex/latex/obe
-rdiek/refcount.sty"
+("C:\Users\AASA LATHA\AppData\Local\Programs\MiKTeX 2.9\tex/latex/oberdiek\refc
+ount.sty"
 Package: refcount 2016/05/16 v3.5 Data extraction from label references (HO)
 
-("/Users/rakesh/Library/Application Support/MiKTeX/texmfs/install/tex/generic/o
-berdiek/ltxcmds.sty"
+("C:\Users\AASA LATHA\AppData\Local\Programs\MiKTeX 2.9\tex/generic/oberdiek\lt
+xcmds.sty"
 Package: ltxcmds 2016/05/16 v1.23 LaTeX kernel commands for general use (HO)
 )
-("/Users/rakesh/Library/Application Support/MiKTeX/texmfs/install/tex/generic/o
-berdiek/infwarerr.sty"
+("C:\Users\AASA LATHA\AppData\Local\Programs\MiKTeX 2.9\tex/generic/oberdiek\in
+fwarerr.sty"
 Package: infwarerr 2016/05/16 v1.4 Providing info/warning/error messages (HO)
 ))
-("/Users/rakesh/Library/Application Support/MiKTeX/texmfs/install/tex/latex/tot
-pages/totpages.sty"
+("C:\Users\AASA LATHA\AppData\Local\Programs\MiKTeX 2.9\tex/latex/totpages\totp
+ages.sty"
 Package: totpages 2005/09/19 v2.00 Totpages Package (muewi)
 
-("/Users/rakesh/Library/Application Support/MiKTeX/texmfs/install/tex/latex/ms/
-everyshi.sty"
+("C:\Users\AASA LATHA\AppData\Local\Programs\MiKTeX 2.9\tex/latex/ms\everyshi.s
+ty"
 Package: everyshi 2001/05/15 v3.00 EveryShipout Package (MS)
 ))
-("/Users/rakesh/Library/Application Support/MiKTeX/texmfs/install/tex/latex/env
-iron/environ.sty"
+("C:\Users\AASA LATHA\AppData\Local\Programs\MiKTeX 2.9\tex/latex/environ\envir
+on.sty"
 Package: environ 2014/05/04 v0.3 A new way to define environments
 
-("/Users/rakesh/Library/Application Support/MiKTeX/texmfs/install/tex/latex/tri
-mspaces/trimspaces.sty"
+("C:\Users\AASA LATHA\AppData\Local\Programs\MiKTeX 2.9\tex/latex/trimspaces\tr
+imspaces.sty"
 Package: trimspaces 2009/09/17 v1.1 Trim spaces around a token list
 ))
-("/Users/rakesh/Library/Application Support/MiKTeX/texmfs/install/tex/latex/tex
-tcase/textcase.sty"
+("C:\Users\AASA LATHA\AppData\Local\Programs\MiKTeX 2.9\tex/latex/textcase\text
+case.sty"
 Package: textcase 2004/10/07 v0.07 Text only upper/lower case changing (DPC)
 )
-("/Users/rakesh/Library/Application Support/MiKTeX/texmfs/install/tex/latex/nat
-bib/natbib.sty"
+("C:\Users\AASA LATHA\AppData\Local\Programs\MiKTeX 2.9\tex/latex/natbib\natbib
+.sty"
 Package: natbib 2010/09/13 8.31b (PWD, AO)
 \bibhang=\skip52
 \bibsep=\skip53
 LaTeX Info: Redefining \cite on input line 694.
 \c@NAT@ctr=\count110
 )
-("/Users/rakesh/Library/Application Support/MiKTeX/texmfs/install/tex/latex/hyp
-erref/hyperref.sty"
+("C:\Users\AASA LATHA\AppData\Local\Programs\MiKTeX 2.9\tex/latex/hyperref\hype
+rref.sty"
 Package: hyperref 2018/11/30 v6.88e Hypertext links for LaTeX
 
-("/Users/rakesh/Library/Application Support/MiKTeX/texmfs/install/tex/generic/o
-berdiek/hobsub-hyperref.sty"
+("C:\Users\AASA LATHA\AppData\Local\Programs\MiKTeX 2.9\tex/generic/oberdiek\ho
+bsub-hyperref.sty"
 Package: hobsub-hyperref 2016/05/16 v1.14 Bundle oberdiek, subset hyperref (HO)
 
 
-("/Users/rakesh/Library/Application Support/MiKTeX/texmfs/install/tex/generic/o
-berdiek/hobsub-generic.sty"
+("C:\Users\AASA LATHA\AppData\Local\Programs\MiKTeX 2.9\tex/generic/oberdiek\ho
+bsub-generic.sty"
 Package: hobsub-generic 2016/05/16 v1.14 Bundle oberdiek, subset generic (HO)
 Package: hobsub 2016/05/16 v1.14 Construct package bundles (HO)
 Package hobsub Info: Skipping package `infwarerr' (already loaded).
@@ -291,40 +288,40 @@ Package: atbegshi 2016/06/09 v1.18 At begin shipout hook (HO)
 Package hobsub Info: Skipping package `refcount' (already loaded).
 Package: hycolor 2016/05/16 v1.8 Color options for hyperref/bookmark (HO)
 )
-("/Users/rakesh/Library/Application Support/MiKTeX/texmfs/install/tex/generic/i
-fxetex/ifxetex.sty"
+("C:\Users\AASA LATHA\AppData\Local\Programs\MiKTeX 2.9\tex/generic/ifxetex\ifx
+etex.sty"
 Package: ifxetex 2010/09/12 v0.6 Provides ifxetex conditional
 )
-("/Users/rakesh/Library/Application Support/MiKTeX/texmfs/install/tex/latex/obe
-rdiek/auxhook.sty"
+("C:\Users\AASA LATHA\AppData\Local\Programs\MiKTeX 2.9\tex/latex/oberdiek\auxh
+ook.sty"
 Package: auxhook 2016/05/16 v1.4 Hooks for auxiliary files (HO)
 )
-("/Users/rakesh/Library/Application Support/MiKTeX/texmfs/install/tex/latex/obe
-rdiek/kvoptions.sty"
+("C:\Users\AASA LATHA\AppData\Local\Programs\MiKTeX 2.9\tex/latex/oberdiek\kvop
+tions.sty"
 Package: kvoptions 2016/05/16 v3.12 Key value format for package options (HO)
 )
 \@linkdim=\dimen128
 \Hy@linkcounter=\count111
 \Hy@pagecounter=\count112
 
-("/Users/rakesh/Library/Application Support/MiKTeX/texmfs/install/tex/latex/hyp
-erref/pd1enc.def"
+("C:\Users\AASA LATHA\AppData\Local\Programs\MiKTeX 2.9\tex/latex/hyperref\pd1e
+nc.def"
 File: pd1enc.def 2018/11/30 v6.88e Hyperref: PDFDocEncoding definition (HO)
 Now handling font encoding PD1 ...
 ... no UTF-8 mapping file for font encoding PD1
 )
 \Hy@SavedSpaceFactor=\count113
 
-("/Users/rakesh/Library/Application Support/MiKTeX/texmfs/install/tex/latex/00m
-iktex/hyperref.cfg"
+("C:\Users\AASA LATHA\AppData\Local\Programs\MiKTeX 2.9\tex/latex/00miktex\hype
+rref.cfg"
 File: hyperref.cfg 2002/06/06 v1.2 hyperref configuration of TeXLive
 )
 Package hyperref Info: Option `bookmarksnumbered' set `true' on input line 4393
 .
 Package hyperref Info: Option `unicode' set `true' on input line 4393.
 
-("/Users/rakesh/Library/Application Support/MiKTeX/texmfs/install/tex/latex/hyp
-erref/puenc.def"
+("C:\Users\AASA LATHA\AppData\Local\Programs\MiKTeX 2.9\tex/latex/hyperref\puen
+c.def"
 File: puenc.def 2018/11/30 v6.88e Hyperref: PDF Unicode definition (HO)
 Now handling font encoding PU ...
 ... no UTF-8 mapping file for font encoding PU
@@ -338,8 +335,7 @@ Package hyperref Info: Implicit mode ON; LaTeX internals redefined.
 Package hyperref Info: Bookmarks ON on input line 4772.
 \c@Hy@tempcnt=\count114
 
-("/Users/rakesh/Library/Application Support/MiKTeX/texmfs/install/tex/latex/url
-/url.sty"
+("C:\Users\AASA LATHA\AppData\Local\Programs\MiKTeX 2.9\tex/latex/url\url.sty"
 \Urlmuskip=\muskip11
 Package: url 2013/09/16  ver 3.4  Verb mode for urls, etc.
 )
@@ -363,51 +359,51 @@ LaTeX Info: Redefining \pageref on input line 6454.
 )
 Package hyperref Info: Driver (autodetected): hpdftex.
 
-("/Users/rakesh/Library/Application Support/MiKTeX/texmfs/install/tex/latex/hyp
-erref/hpdftex.def"
+("C:\Users\AASA LATHA\AppData\Local\Programs\MiKTeX 2.9\tex/latex/hyperref\hpdf
+tex.def"
 File: hpdftex.def 2018/11/30 v6.88e Hyperref driver for pdfTeX
 \Fld@listcount=\count119
 \c@bookmark@seq@number=\count120
 
-("/Users/rakesh/Library/Application Support/MiKTeX/texmfs/install/tex/latex/obe
-rdiek/rerunfilecheck.sty"
+("C:\Users\AASA LATHA\AppData\Local\Programs\MiKTeX 2.9\tex/latex/oberdiek\reru
+nfilecheck.sty"
 Package: rerunfilecheck 2016/05/16 v1.8 Rerun checks for auxiliary files (HO)
 Package uniquecounter Info: New unique counter `rerunfilecheck' on input line 2
 82.
 )
 \Hy@SectionHShift=\skip54
 )
-("/Users/rakesh/Library/Application Support/MiKTeX/texmfs/install/tex/latex/gra
-phics/graphicx.sty"
+("C:\Users\AASA LATHA\AppData\Local\Programs\MiKTeX 2.9\tex/latex/graphics\grap
+hicx.sty"
 Package: graphicx 2017/06/01 v1.1a Enhanced LaTeX Graphics (DPC,SPQR)
 
-("/Users/rakesh/Library/Application Support/MiKTeX/texmfs/install/tex/latex/gra
-phics/graphics.sty"
+("C:\Users\AASA LATHA\AppData\Local\Programs\MiKTeX 2.9\tex/latex/graphics\grap
+hics.sty"
 Package: graphics 2017/06/25 v1.2c Standard LaTeX Graphics (DPC,SPQR)
 
-("/Users/rakesh/Library/Application Support/MiKTeX/texmfs/install/tex/latex/gra
-phics/trig.sty"
+("C:\Users\AASA LATHA\AppData\Local\Programs\MiKTeX 2.9\tex/latex/graphics\trig
+.sty"
 Package: trig 2016/01/03 v1.10 sin cos tan (DPC)
 )
-("/Users/rakesh/Library/Application Support/MiKTeX/texmfs/install/tex/latex/gra
-phics-cfg/graphics.cfg"
+("C:\Users\AASA LATHA\AppData\Local\Programs\MiKTeX 2.9\tex/latex/graphics-cfg\
+graphics.cfg"
 File: graphics.cfg 2016/06/04 v1.11 sample graphics configuration
 )
 Package graphics Info: Driver file: pdftex.def on input line 99.
 
-("/Users/rakesh/Library/Application Support/MiKTeX/texmfs/install/tex/latex/gra
-phics-def/pdftex.def"
+("C:\Users\AASA LATHA\AppData\Local\Programs\MiKTeX 2.9\tex/latex/graphics-def\
+pdftex.def"
 File: pdftex.def 2018/01/08 v1.0l Graphics/color driver for pdftex
 ))
 \Gin@req@height=\dimen132
 \Gin@req@width=\dimen133
 )
-("/Users/rakesh/Library/Application Support/MiKTeX/texmfs/install/tex/latex/xco
-lor/xcolor.sty"
+("C:\Users\AASA LATHA\AppData\Local\Programs\MiKTeX 2.9\tex/latex/xcolor\xcolor
+.sty"
 Package: xcolor 2016/05/11 v2.12 LaTeX color extensions (UK)
 
-("/Users/rakesh/Library/Application Support/MiKTeX/texmfs/install/tex/latex/gra
-phics-cfg/color.cfg"
+("C:\Users\AASA LATHA\AppData\Local\Programs\MiKTeX 2.9\tex/latex/graphics-cfg\
+color.cfg"
 File: color.cfg 2016/01/02 v1.6 sample color configuration
 )
 Package xcolor Info: Driver file: pdftex.def on input line 225.
@@ -421,9 +417,9 @@ Package xcolor Info: Model `HSB' substituted by `hsb' on input line 1369.
 Package xcolor Info: Model `Gray' substituted by `gray' on input line 1370.
 Package xcolor Info: Model `wave' substituted by `hsb' on input line 1371.
 )
-("/Users/rakesh/Library/Application Support/MiKTeX/texmfs/install/tex/latex/geo
-metry-de/geometry.sty"
-Package: geometry 2010/09/12 v5.6 Page Geometry
+("C:\Users\AASA LATHA\AppData\Local\Programs\MiKTeX 2.9\tex/latex/geometry\geom
+etry.sty"
+Package: geometry 2018/04/16 v5.8 Page Geometry
 \Gm@cnth=\count121
 \Gm@cntv=\count122
 \c@Gm@tempcnt=\count123
@@ -437,14 +433,14 @@ Package: geometry 2010/09/12 v5.6 Page Geometry
 \Gm@layoutvoffset=\dimen141
 \Gm@dimlist=\toks28
 
-("/Users/rakesh/Library/Application Support/MiKTeX/texmfs/install/tex/latex/geo
-metry/geometry.cfg"))
-("/Users/rakesh/Library/Application Support/MiKTeX/texmfs/install/tex/latex/ncc
-tools/manyfoot.sty"
+("C:\Users\AASA LATHA\AppData\Local\Programs\MiKTeX 2.9\tex/latex/geometry\geom
+etry.cfg"))
+("C:\Users\AASA LATHA\AppData\Local\Programs\MiKTeX 2.9\tex/latex/ncctools\many
+foot.sty"
 Package: manyfoot 2005/09/11 v1.10 Many Footnote Levels Package (NCC)
 
-("/Users/rakesh/Library/Application Support/MiKTeX/texmfs/install/tex/latex/ncc
-tools/nccfoots.sty"
+("C:\Users\AASA LATHA\AppData\Local\Programs\MiKTeX 2.9\tex/latex/ncctools\nccf
+oots.sty"
 Package: nccfoots 2005/02/03 v1.2 NCC Footnotes Package (NCC)
 )
 \MFL@columnwidth=\dimen142
@@ -454,33 +450,33 @@ Package: nccfoots 2005/02/03 v1.2 NCC Footnotes Package (NCC)
 \footinscopyrightpermission=\insert197
 \c@footnotecopyrightpermission=\count125
 
-("/Users/rakesh/Library/Application Support/MiKTeX/texmfs/install/tex/latex/ift
-ex/iftex.sty"
+("C:\Users\AASA LATHA\AppData\Local\Programs\MiKTeX 2.9\tex/latex/iftex\iftex.s
+ty"
 Package: iftex 2013/04/04 v0.2 Provides if(tex) conditional for PDFTeX, XeTeX, 
 and LuaTeX
 )
-("/Users/rakesh/Library/Application Support/MiKTeX/texmfs/install/tex/generic/p
-dftex/glyphtounicode.tex")
-("/Users/rakesh/Library/Application Support/MiKTeX/texmfs/install/tex/latex/cma
-p/cmap.sty"
+("C:\Users\AASA LATHA\AppData\Local\Programs\MiKTeX 2.9\tex/generic/pdftex\glyp
+htounicode.tex")
+("C:\Users\AASA LATHA\AppData\Local\Programs\MiKTeX 2.9\tex/latex/cmap\cmap.sty
+"
 Package: cmap 2008/03/06 v1.0h CMap support: searchable PDF
 )
-("/Users/rakesh/Library/Application Support/MiKTeX/texmfs/install/tex/latex/bas
-e/fontenc.sty"
+("C:\Users\AASA LATHA\AppData\Local\Programs\MiKTeX 2.9\tex/latex/base\fontenc.
+sty"
 Package: fontenc 2018/08/11 v2.0j Standard LaTeX package
 
-("/Users/rakesh/Library/Application Support/MiKTeX/texmfs/install/tex/latex/bas
-e/t1enc.def"
+("C:\Users\AASA LATHA\AppData\Local\Programs\MiKTeX 2.9\tex/latex/base\t1enc.de
+f"
 File: t1enc.def 2018/08/11 v2.0j Standard LaTeX file
 LaTeX Font Info:    Redeclaring font encoding T1 on input line 48.
 )<<t1.cmap>>)
-("/Users/rakesh/Library/Application Support/MiKTeX/texmfs/install/tex/latex/lib
-ertine/libertine.sty"
+("C:\Users\AASA LATHA\AppData\Local\Programs\MiKTeX 2.9\tex/latex/libertine\lib
+ertine.sty"
 Package: libertine 2018/01/03 (Bob Tennent) Supports Libertine and Biolinum fon
 ts for all LaTeX engines.
 
-("/Users/rakesh/Library/Application Support/MiKTeX/texmfs/install/tex/latex/bas
-e/textcomp.sty"
+("C:\Users\AASA LATHA\AppData\Local\Programs\MiKTeX 2.9\tex/latex/base\textcomp
+.sty"
 Package: textcomp 2018/08/11 v2.0j Standard LaTeX package
 Package textcomp Info: Sub-encoding information:
 (textcomp)               5 = only ISO-Adobe without \textcurrency
@@ -495,14 +491,14 @@ Package textcomp Info: Sub-encoding information:
 (textcomp)             See the documentation for details.
 Package textcomp Info: Setting ? sub-encoding to TS1/1 on input line 79.
 
-("/Users/rakesh/Library/Application Support/MiKTeX/texmfs/install/tex/latex/bas
-e/ts1enc.def"
+("C:\Users\AASA LATHA\AppData\Local\Programs\MiKTeX 2.9\tex/latex/base\ts1enc.d
+ef"
 File: ts1enc.def 2001/06/05 v3.0e (jk/car/fm) Standard LaTeX file
 Now handling font encoding TS1 ...
 ... processing UTF-8 mapping file for font encoding TS1
 
-("/Users/rakesh/Library/Application Support/MiKTeX/texmfs/install/tex/latex/bas
-e/ts1enc.dfu"
+("C:\Users\AASA LATHA\AppData\Local\Programs\MiKTeX 2.9\tex/latex/base\ts1enc.d
+fu"
 File: ts1enc.dfu 2018/10/05 v1.2f UTF-8 support for inputenc
    defining Unicode char U+00A2 (decimal 162)
    defining Unicode char U+00A3 (decimal 163)
@@ -639,8 +635,8 @@ Package textcomp Info: Setting pplj sub-encoding to TS1/3 on input line 407.
 Package textcomp Info: Setting ptmx sub-encoding to TS1/4 on input line 408.
 Package textcomp Info: Setting ptmj sub-encoding to TS1/4 on input line 409.
 )
-("/Users/rakesh/Library/Application Support/MiKTeX/texmfs/install/tex/latex/mwe
-ights/mweights.sty"
+("C:\Users\AASA LATHA\AppData\Local\Programs\MiKTeX 2.9\tex/latex/mweights\mwei
+ghts.sty"
 Package: mweights 2017/03/30 (Bob Tennent) Support package for multiple-weight 
 font packages. 
 LaTeX Info: Redefining \bfseries on input line 22.
@@ -649,12 +645,12 @@ LaTeX Info: Redefining \rmfamily on input line 38.
 LaTeX Info: Redefining \sffamily on input line 66.
 LaTeX Info: Redefining \ttfamily on input line 94.
 )
-("/Users/rakesh/Library/Application Support/MiKTeX/texmfs/install/tex/latex/bas
-e/fontenc.sty"
+("C:\Users\AASA LATHA\AppData\Local\Programs\MiKTeX 2.9\tex/latex/base\fontenc.
+sty"
 Package: fontenc 2018/08/11 v2.0j Standard LaTeX package
 )
-("/Users/rakesh/Library/Application Support/MiKTeX/texmfs/install/tex/latex/fon
-taxes/fontaxes.sty"
+("C:\Users\AASA LATHA\AppData\Local\Programs\MiKTeX 2.9\tex/latex/fontaxes\font
+axes.sty"
 Package: fontaxes 2014/03/23 v1.0d Font selection axes
 LaTeX Info: Redefining \upshape on input line 29.
 LaTeX Info: Redefining \itshape on input line 31.
@@ -663,29 +659,29 @@ LaTeX Info: Redefining \scshape on input line 37.
 )
 LaTeX Info: Redefining \oldstylenums on input line 490.
 
-("/Users/rakesh/Library/Application Support/MiKTeX/texmfs/install/tex/latex/lib
-ertine/LinLibertine_I.tex"))
-("/Users/rakesh/Library/Application Support/MiKTeX/texmfs/install/tex/latex/inc
-onsolata/zi4.sty"
+("C:\Users\AASA LATHA\AppData\Local\Programs\MiKTeX 2.9\tex/latex/libertine\Lin
+Libertine_I.tex"))
+("C:\Users\AASA LATHA\AppData\Local\Programs\MiKTeX 2.9\tex/latex/inconsolata\z
+i4.sty"
 Package: zi4 2017/01/04 v1.112
 
 `inconsolata-zi4' v1.112, 2017/01/04 Text macros for Inconsolata (msharpe)
 \zifour@ocount=\count126
 )
-("/Users/rakesh/Library/Application Support/MiKTeX/texmfs/install/tex/latex/new
-tx/newtxmath.sty"
+("C:\Users\AASA LATHA\AppData\Local\Programs\MiKTeX 2.9\tex/latex/newtx\newtxma
+th.sty"
 Package: newtxmath 2018/05/15 v1.553
 
 `newtxmath' v1.553, 2018/05/15 Math macros based originally on txfonts (msharpe
 )
-("/Users/rakesh/Library/Application Support/MiKTeX/texmfs/install/tex/latex/obe
-rdiek/centernot.sty"
+("C:\Users\AASA LATHA\AppData\Local\Programs\MiKTeX 2.9\tex/latex/oberdiek\cent
+ernot.sty"
 Package: centernot 2016/05/16 v1.4 Centers the not symbol horizontally (HO)
 )
 \tx@cntz=\count127
 
-("/Users/rakesh/Library/Application Support/MiKTeX/texmfs/install/tex/generic/b
-inhex/binhex.tex")
+("C:\Users\AASA LATHA\AppData\Local\Programs\MiKTeX 2.9\tex/generic/binhex\binh
+ex.tex")
 \tx@Isdigit=\count128
 \tx@IsAlNum=\count129
 LaTeX Font Info:    Redeclaring symbol font `operators' on input line 171.
@@ -816,12 +812,12 @@ LaTeX Info: Redefining \not on input line 2322.
 LaTeX Info: Redefining \textsquare on input line 2352.
 LaTeX Info: Redefining \openbox on input line 2354.
 )
-("/Users/rakesh/Library/Application Support/MiKTeX/texmfs/install/tex/latex/cap
-tion/caption.sty"
+("C:\Users\AASA LATHA\AppData\Local\Programs\MiKTeX 2.9\tex/latex/caption\capti
+on.sty"
 Package: caption 2018/10/06 v3.3-154 Customizing captions (AR)
 
-("/Users/rakesh/Library/Application Support/MiKTeX/texmfs/install/tex/latex/cap
-tion/caption3.sty"
+("C:\Users\AASA LATHA\AppData\Local\Programs\MiKTeX 2.9\tex/latex/caption\capti
+on3.sty"
 Package: caption3 2018/09/12 v1.8c caption3 kernel (AR)
 Package caption3 Info: TeX engine: e-TeX on input line 64.
 \captionmargin=\dimen143
@@ -837,8 +833,8 @@ Package caption Info: AMS or SMF document class.
 \c@ContinuedFloat=\count137
 Package caption Info: hyperref package is loaded.
 )
-("/Users/rakesh/Library/Application Support/MiKTeX/texmfs/install/tex/latex/flo
-at/float.sty"
+("C:\Users\AASA LATHA\AppData\Local\Programs\MiKTeX 2.9\tex/latex/float\float.s
+ty"
 Package: float 2001/11/08 v1.3d Float enhancements (AL)
 \c@float@type=\count138
 \float@exts=\toks29
@@ -861,8 +857,8 @@ Class acmart Info: Printing bibformat on input line 1348.
 Class acmart Info: Suppressing folios on input line 1355.
 Class acmart Info: Setting authorsperrow to 0 on input line 1358.
 
-("/Users/rakesh/Library/Application Support/MiKTeX/texmfs/install/tex/latex/com
-ment/comment.sty"
+("C:\Users\AASA LATHA\AppData\Local\Programs\MiKTeX 2.9\tex/latex/comment\comme
+nt.sty"
 \CommentStream=\write3
  Excluding comment 'comment') Excluding comment 'CCSXML'
 \c@@concepts=\count142
@@ -872,8 +868,8 @@ ment/comment.sty"
 \author@bx@wd=\dimen152
 \author@bx@sep=\skip59
 
-("/Users/rakesh/Library/Application Support/MiKTeX/texmfs/install/tex/latex/fan
-cyhdr/fancyhdr.sty"
+("C:\Users\AASA LATHA\AppData\Local\Programs\MiKTeX 2.9\tex/latex/fancyhdr\fanc
+yhdr.sty"
 Package: fancyhdr 2017/06/30 v3.9a Extensive control of page headers and footer
 s
 \f@nch@headwidth=\skip60
@@ -893,22 +889,22 @@ s
 LaTeX Font Info:    Try loading font information for T1+LinuxLibertineT-TLF on 
 input line 2770.
 
-("/Users/rakesh/Library/Application Support/MiKTeX/texmfs/install/tex/latex/lib
-ertine/T1LinuxLibertineT-TLF.fd"
+("C:\Users\AASA LATHA\AppData\Local\Programs\MiKTeX 2.9\tex/latex/libertine\t1l
+inuxlibertinet-tlf.fd"
 File: T1LinuxLibertineT-TLF.fd 2017/03/20 (autoinst) Font definitions for T1/Li
 nuxLibertineT-TLF.
 )
 LaTeX Font Info:    Font shape `T1/LinuxLibertineT-TLF/m/n' will be
 (Font)              scaled to size 9.0pt on input line 2770.
 )
-("/Users/rakesh/Library/Application Support/MiKTeX/texmfs/install/tex/latex/lip
-sum/lipsum.sty"
-("/Users/rakesh/Library/Application Support/MiKTeX/texmfs/install/tex/latex/l3k
-ernel/expl3.sty"
+("C:\Users\AASA LATHA\AppData\Local\Programs\MiKTeX 2.9\tex/latex/lipsum\lipsum
+.sty"
+("C:\Users\AASA LATHA\AppData\Local\Programs\MiKTeX 2.9\tex/latex/l3kernel\expl
+3.sty"
 Package: expl3 2019-01-01 L3 programming layer (loader) 
 
-("/Users/rakesh/Library/Application Support/MiKTeX/texmfs/install/tex/latex/l3k
-ernel/expl3-code.tex"
+("C:\Users\AASA LATHA\AppData\Local\Programs\MiKTeX 2.9\tex/latex/l3kernel\expl
+3-code.tex"
 Package: expl3 2019-01-01 L3 programming layer (code)
 \c_max_int=\count143
 \l_tmpa_int=\count144
@@ -1055,13 +1051,13 @@ Package: expl3 2019-01-01 L3 programming layer (code)
 \l__seq_internal_a_int=\count294
 \l__seq_internal_b_int=\count295
 )
-("/Users/rakesh/Library/Application Support/MiKTeX/texmfs/install/tex/latex/l3k
-ernel/l3pdfmode.def"
+("C:\Users\AASA LATHA\AppData\Local\Programs\MiKTeX 2.9\tex/latex/l3kernel\l3pd
+fmode.def"
 File: l3pdfmode.def 2019-01-01 v L3 Experimental driver: PDF mode
 \l__driver_color_stack_int=\count296
 ))
-("/Users/rakesh/Library/Application Support/MiKTeX/texmfs/install/tex/latex/l3p
-ackages/xparse/xparse.sty"
+("C:\Users\AASA LATHA\AppData\Local\Programs\MiKTeX 2.9\tex/latex/l3packages/xp
+arse\xparse.sty"
 Package: xparse 2018-10-17 L3 Experimental document command parser
 \l__xparse_current_arg_int=\count297
 \g__xparse_grabber_int=\count298
@@ -1071,29 +1067,28 @@ Package: xparse 2018-10-17 L3 Experimental document command parser
 )
 Package: lipsum 2019/01/02 v2.2 150 paragraphs of Lorem Ipsum dummy text
 
-("/Users/rakesh/Library/Application Support/MiKTeX/texmfs/install/tex/latex/lip
-sum/lipsum.ltd.tex"
+("C:\Users\AASA LATHA\AppData\Local\Programs\MiKTeX 2.9\tex/latex/lipsum\lipsum
+.ltd.tex"
 File: lipsum.ltd.tex 2019/01/02 v2.2 The Lorem ipsum dummy text
 ))
 Package hyperref Info: Option `pdfdisplaydoctitle' set `true' on input line 20.
 
 \c@theorem=\count302
 
-("/Users/rakesh/Library/Application Support/MiKTeX/texmfs/install/tex/latex/pre
-print/balance.sty"
+("C:\Users\AASA LATHA\AppData\Local\Programs\MiKTeX 2.9\tex/latex/preprint\bala
+nce.sty"
 Package: balance 1999/02/23 4.3 (PWD)
 \oldvsize=\dimen188
 ) Excluding comment 'screenonly' Include comment 'printonly'
-Include comment 'anonsuppress'
-No file sample-sigconf.aux.
+Include comment 'anonsuppress' (sample-sigconf.aux)
 \openout1 = `sample-sigconf.aux'.
 
 LaTeX Font Info:    Checking defaults for OML/nxlmi/m/it on input line 20.
 LaTeX Font Info:    Try loading font information for OML+nxlmi on input line 20
 .
 
-("/Users/rakesh/Library/Application Support/MiKTeX/texmfs/install/tex/latex/new
-tx/omlnxlmi.fd"
+("C:\Users\AASA LATHA\AppData\Local\Programs\MiKTeX 2.9\tex/latex/newtx\omlnxlm
+i.fd"
 File: omlnxlmi.fd 2013/11/19 Fontinst v1.933 font definitions for OML/nxlmi.
 )
 LaTeX Font Info:    ... okay on input line 20.
@@ -1109,8 +1104,8 @@ LaTeX Font Info:    Checking defaults for U/ntxexa/m/n on input line 20.
 LaTeX Font Info:    Try loading font information for U+ntxexa on input line 20.
 
 
-("/Users/rakesh/Library/Application Support/MiKTeX/texmfs/install/tex/latex/new
-tx/untxexa.fd"
+("C:\Users\AASA LATHA\AppData\Local\Programs\MiKTeX 2.9\tex/latex/newtx\untxexa
+.fd"
 File: untxexa.fd 2012/04/16 Fontinst v1.933 font definitions for U/ntxexa.
 )
 LaTeX Font Info:    ... okay on input line 20.
@@ -1121,8 +1116,8 @@ LaTeX Font Info:    ... okay on input line 20.
 LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 20.
 LaTeX Font Info:    Try loading font information for TS1+cmr on input line 20.
 
-("/Users/rakesh/Library/Application Support/MiKTeX/texmfs/install/tex/latex/bas
-e/ts1cmr.fd"
+("C:\Users\AASA LATHA\AppData\Local\Programs\MiKTeX 2.9\tex/latex/base\ts1cmr.f
+d"
 File: ts1cmr.fd 2014/09/29 v2.5h Standard LaTeX font definitions
 )
 LaTeX Font Info:    ... okay on input line 20.
@@ -1130,8 +1125,8 @@ LaTeX Font Info:    Checking defaults for LMS/ntxsy/m/n on input line 20.
 LaTeX Font Info:    Try loading font information for LMS+ntxsy on input line 20
 .
 
-("/Users/rakesh/Library/Application Support/MiKTeX/texmfs/install/tex/latex/new
-tx/lmsntxsy.fd"
+("C:\Users\AASA LATHA\AppData\Local\Programs\MiKTeX 2.9\tex/latex/newtx\lmsntxs
+y.fd"
 File: lmsntxsy.fd 2016/07/02 Fontinst v1.933 font definitions for LMS/ntxsy.
 )
 LaTeX Font Info:    ... okay on input line 20.
@@ -1139,8 +1134,8 @@ LaTeX Font Info:    Checking defaults for LMX/ntxexx/m/n on input line 20.
 LaTeX Font Info:    Try loading font information for LMX+ntxexx on input line 2
 0.
 
-("/Users/rakesh/Library/Application Support/MiKTeX/texmfs/install/tex/latex/new
-tx/lmxntxexx.fd"
+("C:\Users\AASA LATHA\AppData\Local\Programs\MiKTeX 2.9\tex/latex/newtx\lmxntxe
+xx.fd"
 File: lmxntxexx.fd 2016/07/03 Fontinst v1.933 font definitions for LMX/ntxexx.
 )
 LaTeX Font Info:    ... okay on input line 20.
@@ -1149,8 +1144,8 @@ LaTeX Font Info:    Font shape `T1/LinuxLibertineT-TLF/m/n' will be
 LaTeX Font Info:    Try loading font information for OT1+LinuxLibertineT-TLF on
  input line 20.
 
-("/Users/rakesh/Library/Application Support/MiKTeX/texmfs/install/tex/latex/lib
-ertine/OT1LinuxLibertineT-TLF.fd"
+("C:\Users\AASA LATHA\AppData\Local\Programs\MiKTeX 2.9\tex/latex/libertine\ot1
+linuxlibertinet-tlf.fd"
 File: OT1LinuxLibertineT-TLF.fd 2017/03/20 (autoinst) Font definitions for OT1/
 LinuxLibertineT-TLF.
 )
@@ -1162,35 +1157,35 @@ LaTeX Font Info:    Font shape `OT1/LinuxLibertineT-TLF/m/n' will be
 <<oml.cmap>>
 LaTeX Font Info:    Try loading font information for U+msa on input line 20.
 
-("/Users/rakesh/Library/Application Support/MiKTeX/texmfs/install/tex/latex/ams
-fonts/umsa.fd"
+("C:\Users\AASA LATHA\AppData\Local\Programs\MiKTeX 2.9\tex/latex/amsfonts\umsa
+.fd"
 File: umsa.fd 2013/01/14 v3.01 AMS symbols A
 )
 LaTeX Font Info:    Try loading font information for U+msb on input line 20.
 
-("/Users/rakesh/Library/Application Support/MiKTeX/texmfs/install/tex/latex/ams
-fonts/umsb.fd"
+("C:\Users\AASA LATHA\AppData\Local\Programs\MiKTeX 2.9\tex/latex/amsfonts\umsb
+.fd"
 File: umsb.fd 2013/01/14 v3.01 AMS symbols B
 )
 LaTeX Font Info:    Try loading font information for U+ntxmia on input line 20.
 
 
-("/Users/rakesh/Library/Application Support/MiKTeX/texmfs/install/tex/latex/new
-tx/untxmia.fd"
+("C:\Users\AASA LATHA\AppData\Local\Programs\MiKTeX 2.9\tex/latex/newtx\untxmia
+.fd"
 File: untxmia.fd 2018/04/14 Fontinst v1.933 font definitions for U/ntxmia.
 )
 LaTeX Font Info:    Try loading font information for U+ntxsym on input line 20.
 
 
-("/Users/rakesh/Library/Application Support/MiKTeX/texmfs/install/tex/latex/new
-tx/untxsym.fd"
+("C:\Users\AASA LATHA\AppData\Local\Programs\MiKTeX 2.9\tex/latex/newtx\untxsym
+.fd"
 File: untxsym.fd 2015/03/20 Fontinst v1.933 font definitions for U/ntxsym.
 )
 LaTeX Font Info:    Try loading font information for U+ntxsyc on input line 20.
 
 
-("/Users/rakesh/Library/Application Support/MiKTeX/texmfs/install/tex/latex/new
-tx/untxsyc.fd"
+("C:\Users\AASA LATHA\AppData\Local\Programs\MiKTeX 2.9\tex/latex/newtx\untxsyc
+.fd"
 File: untxsyc.fd 2012/04/12 Fontinst v1.933 font definitions for U/ntxsyc.
 )
 LaTeX Info: Redefining \microtypecontext on input line 20.
@@ -1211,12 +1206,12 @@ Package microtype Info: Loading generic protrusion settings for font family
 \AtBeginShipoutBox=\box50
 Package hyperref Info: Link coloring OFF on input line 20.
 
-("/Users/rakesh/Library/Application Support/MiKTeX/texmfs/install/tex/latex/hyp
-erref/nameref.sty"
+("C:\Users\AASA LATHA\AppData\Local\Programs\MiKTeX 2.9\tex/latex/hyperref\name
+ref.sty"
 Package: nameref 2016/05/21 v2.44 Cross-referencing by name of section
 
-("/Users/rakesh/Library/Application Support/MiKTeX/texmfs/install/tex/generic/o
-berdiek/gettitlestring.sty"
+("C:\Users\AASA LATHA\AppData\Local\Programs\MiKTeX 2.9\tex/generic/oberdiek\ge
+ttitlestring.sty"
 Package: gettitlestring 2016/05/16 v1.5 Cleanup title references (HO)
 )
 \c@section@level=\count303
@@ -1224,12 +1219,13 @@ Package: gettitlestring 2016/05/16 v1.5 Cleanup title references (HO)
 LaTeX Info: Redefining \ref on input line 20.
 LaTeX Info: Redefining \pageref on input line 20.
 LaTeX Info: Redefining \nameref on input line 20.
+ (sample-sigconf.out) (sample-sigconf.out)
 \@outlinefile=\write4
 \openout4 = `sample-sigconf.out'.
 
 
-("/Users/rakesh/Library/Application Support/MiKTeX/texmfs/install/tex/context/b
-ase/supp-pdf.mkii"
+("C:\Users\AASA LATHA\AppData\Local\Programs\MiKTeX 2.9\tex/context/base\supp-p
+df.mkii"
 [Loading MPS to PDF converter (version 2006.09.02).]
 \scratchcounter=\count304
 \scratchdimen=\dimen189
@@ -1243,12 +1239,12 @@ ase/supp-pdf.mkii"
 \makeMPintoPDFobject=\count309
 \everyMPtoPDFconversion=\toks33
 )
-("/Users/rakesh/Library/Application Support/MiKTeX/texmfs/install/tex/latex/obe
-rdiek/epstopdf-base.sty"
+("C:\Users\AASA LATHA\AppData\Local\Programs\MiKTeX 2.9\tex/latex/oberdiek\epst
+opdf-base.sty"
 Package: epstopdf-base 2016/05/15 v2.6 Base part for package epstopdf
 
-("/Users/rakesh/Library/Application Support/MiKTeX/texmfs/install/tex/latex/obe
-rdiek/grfext.sty"
+("C:\Users\AASA LATHA\AppData\Local\Programs\MiKTeX 2.9\tex/latex/oberdiek\grfe
+xt.sty"
 Package: grfext 2016/05/16 v1.2 Manage graphics extensions (HO)
 )
 Package epstopdf-base Info: Redefining graphics rule for `.eps' on input line 4
@@ -1295,8 +1291,8 @@ G,.JBIG2,.JB2,.eps]
 \c@mv@tabular=\count310
 \c@mv@boldtabular=\count311
 
-("/Users/rakesh/Library/Application Support/MiKTeX/texmfs/install/tex/latex/upq
-uote/upquote.sty"
+("C:\Users\AASA LATHA\AppData\Local\Programs\MiKTeX 2.9\tex/latex/upquote\upquo
+te.sty"
 Package: upquote 2012/04/19 v1.3 upright-quote and grave-accent glyphs in verba
 tim
 )
@@ -1308,8 +1304,8 @@ LaTeX Font Info:    Font shape `T1/LinuxLibertineT-TLF/m/n' will be
 LaTeX Font Info:    Try loading font information for T1+LinuxBiolinumT-TLF on i
 nput line 57.
 
-("/Users/rakesh/Library/Application Support/MiKTeX/texmfs/install/tex/latex/lib
-ertine/T1LinuxBiolinumT-TLF.fd"
+("C:\Users\AASA LATHA\AppData\Local\Programs\MiKTeX 2.9\tex/latex/libertine\t1l
+inuxbiolinumt-tlf.fd"
 File: T1LinuxBiolinumT-TLF.fd 2017/03/20 (autoinst) Font definitions for T1/Lin
 uxBiolinumT-TLF.
 )
@@ -1341,12 +1337,12 @@ Package microtype Info: Loading generic protrusion settings for font family
 (microtype)             For optimal results, create family-specific settings.
 (microtype)             See the microtype manual for details.
 
-("/Users/rakesh/Library/Application Support/MiKTeX/texmfs/install/tex/latex/mic
-rotype/mt-msa.cfg"
+("C:\Users\AASA LATHA\AppData\Local\Programs\MiKTeX 2.9\tex/latex/microtype\mt-
+msa.cfg"
 File: mt-msa.cfg 2006/02/04 v1.1 microtype config. file: AMS symbols (a) (RS)
 )
-("/Users/rakesh/Library/Application Support/MiKTeX/texmfs/install/tex/latex/mic
-rotype/mt-msb.cfg"
+("C:\Users\AASA LATHA\AppData\Local\Programs\MiKTeX 2.9\tex/latex/microtype\mt-
+msb.cfg"
 File: mt-msb.cfg 2005/06/01 v1.0 microtype config. file: AMS symbols (b) (RS)
 )
 
@@ -1358,8 +1354,8 @@ LaTeX Font Info:    Font shape `T1/LinuxLibertineT-TLF/m/it' will be
 LaTeX Font Info:    Try loading font information for TS1+LinuxLibertineT-TLF on
  input line 57.
 
-("/Users/rakesh/Library/Application Support/MiKTeX/texmfs/install/tex/latex/lib
-ertine/TS1LinuxLibertineT-TLF.fd"
+("C:\Users\AASA LATHA\AppData\Local\Programs\MiKTeX 2.9\tex/latex/libertine\ts1
+linuxlibertinet-tlf.fd"
 File: TS1LinuxLibertineT-TLF.fd 2017/03/20 (autoinst) Font definitions for TS1/
 LinuxLibertineT-TLF.
 )
@@ -1378,11 +1374,6 @@ LaTeX Font Info:    Font shape `OT1/LinuxLibertineT-TLF/m/n' will be
 LaTeX Font Info:    Font shape `T1/LinuxLibertineT-TLF/m/n' will be
 (Font)              scaled to size 7.3pt on input line 57.
 
-Overfull \hbox (3.29292pt too wide) in paragraph at lines 57--57
-\T1/LinuxLibertineT-TLF/m/n/9 (-20) article formatted for publication by ACM in
- a conference proceedings
- []
-
 
 Class acmart Warning: \vspace should only be used to provide space above/below 
 surrounding objects on input line 57.
@@ -1393,9 +1384,6 @@ LaTeX Font Info:    Font shape `T1/LinuxLibertineT-TLF/b/n' will be
 (Font)              scaled to size 8.0pt on input line 57.
 LaTeX Font Info:    Font shape `T1/LinuxLibertineT-TLF/m/it' will be
 (Font)              scaled to size 8.0pt on input line 57.
-
-LaTeX Warning: Reference `TotPages' on page 1 undefined on input line 57.
-
 LaTeX Font Info:    Font shape `OT1/LinuxLibertineT-TLF/m/n' will be
 (Font)              scaled to size 8.0pt on input line 57.
 LaTeX Font Info:    Font shape `OT1/LinuxLibertineT-TLF/m/n' will be
@@ -1404,14 +1392,25 @@ LaTeX Font Info:    Font shape `OT1/LinuxLibertineT-TLF/m/n' will be
 Class acmart Warning: \vspace should only be used to provide space above/below 
 surrounding objects on input line 57.
 
-LaTeX Font Info:    Try loading font information for T1+zi4 on input line 70.
+[1.1{C:/Users/AASA LATHA/AppData/Local/MiKTeX/2.9/pdftex/config/pdftex.map}
 
-("/Users/rakesh/Library/Application Support/MiKTeX/texmfs/install/tex/latex/inc
-onsolata/t1zi4.fd"
+]
+
+Class acmart Warning: \vspace should only be used to provide space above/below 
+surrounding objects on input line 123.
+
+
+Class acmart Warning: \vspace should only be used to provide space above/below 
+surrounding objects on input line 123.
+
+LaTeX Font Info:    Try loading font information for T1+zi4 on input line 129.
+
+("C:\Users\AASA LATHA\AppData\Local\Programs\MiKTeX 2.9\tex/latex/inconsolata\t
+1zi4.fd"
 File: t1zi4.fd 2018/01/14 T1/zi4 (Inconsolata)
 )
 LaTeX Font Info:    Font shape `T1/zi4/m/n' will be
-(Font)              scaled to size 9.0pt on input line 70.
+(Font)              scaled to size 9.0pt on input line 129.
 Package microtype Info: Loading generic protrusion settings for font family
 (microtype)             `zi4' (encoding: T1).
 (microtype)             For optimal results, create family-specific settings.
@@ -1422,191 +1421,43 @@ Package microtype Info: Character `textendash ' is missing
 Package microtype Info: Character `textemdash ' is missing
 (microtype)             in font `T1/zi4/m/n/9'.
 (microtype)             Ignoring protrusion settings for this character.
-
-
-LaTeX Warning: Reference `tab:commands' on page 1 undefined on input line 109.
-
-
-Class acmart Warning: \vspace should only be used to provide space above/below 
-surrounding objects on input line 112.
-
-
-Class acmart Warning: \vspace should only be used to provide space above/below 
-surrounding objects on input line 112.
-
-
-Package natbib Warning: Citation `Lamport:LaTeX' on page 1 undefined on input l
-ine 139.
-
-[1.1{/Users/rakesh/Library/Application Support/MiKTeX/texmfs/data/pdftex/config
-/pdftex.map}
-
-]
-Overfull \hbox (2.14551pt too wide) in paragraph at lines 161--164
-\T1/LinuxLibertineT-TLF/m/n/9 (-20) Notice how it is formatted somewhat differe
-ntly in the \T1/LinuxLibertineT-TLF/b/n/9 displaymath 
- []
-
 LaTeX Font Info:    Font shape `T1/LinuxLibertineT-TLF/m/sc' will be
-(Font)              scaled to size 9.0pt on input line 182.
-
-Overfull \hbox (1.91925pt too wide) in paragraph at lines 191--192
-[]\T1/LinuxLibertineT-TLF/m/n/9 (-20) Citations and references are numbered by 
-default. A small number
- []
-
-
-Package natbib Warning: Citation `Abril07' on page 2 undefined on input line 19
-6.
-
-
-Package natbib Warning: Citation `Cohen07' on page 2 undefined on input line 19
-6.
-
-
-Package natbib Warning: Citation `JCohen96' on page 2 undefined on input line 1
-96.
-
-
-Package natbib Warning: Citation `Kosiur01' on page 2 undefined on input line 1
-96.
-
-
-Package natbib Warning: Citation `Harel79' on page 2 undefined on input line 19
-7.
-
-
-Package natbib Warning: Citation `Editor00' on page 2 undefined on input line 1
-97.
-
-
-Package natbib Warning: Citation `Editor00a' on page 2 undefined on input line 
-197.
-
-
-Package natbib Warning: Citation `Spector90' on page 2 undefined on input line 
-198.
-
-
-Package natbib Warning: Citation `Douglass98' on page 2 undefined on input line
- 198.
-
-
-Package natbib Warning: Citation `Knuth97' on page 2 undefined on input line 19
-8.
-
-
-Package natbib Warning: Citation `Andler79' on page 2 undefined on input line 1
-98.
-
-
-Package natbib Warning: Citation `Smith10' on page 2 undefined on input line 19
-8.
-
-
-Package natbib Warning: Citation `VanGundy07' on page 2 undefined on input line
- 198.
-
-
-Package natbib Warning: Citation `Harel78' on page 2 undefined on input line 19
-8.
-
-
-Package natbib Warning: Citation `Clarkson85' on page 2 undefined on input line
- 198.
-
-
-Package natbib Warning: Citation `anisi03' on page 2 undefined on input line 19
-8.
-
-
-Package natbib Warning: Citation `Thornburg01' on page 2 undefined on input lin
-e 198.
-
-
-Package natbib Warning: Citation `Ablamowicz07' on page 2 undefined on input li
-ne 198.
-
-
-Package natbib Warning: Citation `Poker06' on page 2 undefined on input line 19
-8.
-
-
-Package natbib Warning: Citation `Obama08' on page 2 undefined on input line 19
-8.
-
-
-Package natbib Warning: Citation `Novak03' on page 2 undefined on input line 19
-8.
-
-
-Package natbib Warning: Citation `Lee05' on page 2 undefined on input line 198.
-
-
-
-Package natbib Warning: Citation `JoeScientist001' on page 2 undefined on input
- line 198.
-
-
-Package natbib Warning: Citation `rous08' on page 2 undefined on input line 198
-.
-
-
-Package natbib Warning: Citation `SaeediMEJ10' on page 2 undefined on input lin
-e 198.
-
-
-Package natbib Warning: Citation `SaeediJETC10' on page 2 undefined on input li
-ne 198.
-
-
-Package natbib Warning: Citation `Kirschmer:2010:AEI:1958016.1958018' on page 2
- undefined on input line 198.
-
-
-Package natbib Warning: Citation `MR781536' on page 2 undefined on input line 1
-98.
-
-
-Package natbib Warning: Citation `MR781537' on page 2 undefined on input line 1
-98.
-
-
-Package natbib Warning: Citation `2004:ITE:1009386.1010128' on page 2 undefined
- on input line 198.
-
-
-Package natbib Warning: Citation `Kirschmer:2010:AEI:1958016.1958018' on page 2
- undefined on input line 198.
-
-
-Package natbib Warning: Citation `TUGInstmem' on page 2 undefined on input line
- 198.
-
-
-Package natbib Warning: Citation `Thornburg01' on page 2 undefined on input lin
-e 198.
-
-
-Package natbib Warning: Citation `CTANacmart' on page 2 undefined on input line
- 198.
-
-No file sample-sigconf.bbl.
-
-Package natbib Warning: There were undefined citations.
-
+(Font)              scaled to size 9.0pt on input line 193.
+ (sample-sigconf.bbl
+LaTeX Font Info:    Font shape `T1/LinuxBiolinumT-TLF/m/n' will be
+(Font)              scaled to size 9.0pt on input line 4.
+ [2.2]
+LaTeX Info: Redefining \tempurl on input line 65.
+LaTeX Info: Redefining \tempurl on input line 80.
+LaTeX Info: Redefining \tempurl on input line 127.
+LaTeX Info: Redefining \tempurl on input line 147.
+LaTeX Info: Redefining \tempurl on input line 162.
+LaTeX Info: Redefining \tempurl on input line 176.
+LaTeX Info: Redefining \tempurl on input line 218.
+LaTeX Info: Redefining \tempurl on input line 265.
+LaTeX Info: Redefining \tempurl on input line 282.
+LaTeX Font Info:    Font shape `T1/LinuxLibertineT-TLF/m/it' will be
+(Font)              scaled to size 5.5pt on input line 311.
+LaTeX Info: Redefining \tempurl on input line 327.
+LaTeX Info: Redefining \tempurl on input line 341.
+LaTeX Info: Redefining \tempurl on input line 353.
+LaTeX Info: Redefining \tempurl on input line 366.
+LaTeX Info: Redefining \tempurl on input line 437.
+LaTeX Info: Redefining \tempurl on input line 452.
+LaTeX Info: Redefining \tempurl on input line 464.
+LaTeX Info: Redefining \tempurl on input line 476.
+LaTeX Info: Redefining \tempurl on input line 490.
+)
 
 Package balance Warning: You have called \balance in second column
 (balance)                Columns might not be balanced.
 
-LaTeX Font Info:    Font shape `T1/LinuxBiolinumT-TLF/m/n' will be
-(Font)              scaled to size 9.0pt on input line 210.
-[2.2]
-Package atveryend Info: Empty hook `BeforeClearDocument' on input line 210.
-Package atveryend Info: Empty hook `AfterLastShipout' on input line 210.
+[3.3]
+Package atveryend Info: Empty hook `BeforeClearDocument' on input line 221.
+Package atveryend Info: Empty hook `AfterLastShipout' on input line 221.
  (sample-sigconf.aux)
-Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 210.
-Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 210.
+Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 221.
+Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 221.
 
 
 Package rerunfilecheck Warning: File `sample-sigconf.out' has changed.
@@ -1614,40 +1465,52 @@ Package rerunfilecheck Warning: File `sample-sigconf.out' has changed.
 (rerunfilecheck)                or use package `bookmark'.
 
 Package rerunfilecheck Info: Checksums for `sample-sigconf.out':
-(rerunfilecheck)             Before: <no file>
-(rerunfilecheck)             After:  D63F79C00B5EB94C4D8990C3721297BB;1445.
-
-LaTeX Warning: There were undefined references.
-
-
-LaTeX Warning: Label(s) may have changed. Rerun to get cross-references right.
-
+(rerunfilecheck)             Before: 8C27B91448A2C3097B4C609CD6C37159;2333
+(rerunfilecheck)             After:  A832D977FA8812004BC6EDA42BB90AC7;2641.
  ) 
 Here is how much of TeX's memory you used:
- 27364 strings out of 494865
- 464677 string characters out of 3176569
- 714104 words of memory out of 3000000
- 30263 multiletter control sequences out of 15000+200000
- 672213 words of font info for 260 fonts, out of 3000000 for 9000
- 162 hyphenation exceptions out of 8191
- 60i,11n,94p,1402b,439s stack positions out of 5000i,500n,10000p,200000b,50000s
-{/Users/rakesh/Library/Application Support/MiKTeX/texmfs/install/fonts/enc/dv
-ips/libertine/lbtn_ncsllp.enc}{/Users/rakesh/Library/Application Support/MiKTeX
-/texmfs/install/fonts/enc/dvips/newtx/libertinealt.enc}{/Users/rakesh/Library/A
-pplication Support/MiKTeX/texmfs/install/fonts/enc/dvips/base/8r.enc}{/Users/ra
-kesh/Library/Application Support/MiKTeX/texmfs/install/fonts/enc/dvips/libertin
-e/lbtn_oexx6f.enc}{/Users/rakesh/Library/Application Support/MiKTeX/texmfs/inst
-all/fonts/enc/dvips/libertine/lbtn_25tcsq.enc}{/Users/rakesh/Library/Applicatio
-n Support/MiKTeX/texmfs/install/fonts/enc/dvips/inconsolata/i4-t1-4.enc}{/Users
-/rakesh/Library/Application Support/MiKTeX/texmfs/install/fonts/enc/dvips/liber
-tine/lbtn_naooyc.enc}{/Users/rakesh/Library/Application Support/MiKTeX/texmfs/i
-nstall/fonts/enc/dvips/libertine/lbtn_7grukw.enc}{/Users/rakesh/Library/Applica
-tion Support/MiKTeX/texmfs/install/fonts/enc/dvips/libertine/lbtn_nh77jq.enc}{/
-Users/rakesh/Library/Application Support/MiKTeX/texmfs/install/fonts/enc/dvips/
-libertine/lbtn_76gpa5.enc}</Users/rakesh/Library/Application Support/MiKTeX/tex
-mfs/install/fonts/type1/public/inconsolata/Inconsolata-zi4r.pfb></Users/rakesh/
-Library/Application Support/MiKTeX/texmfs/install/fonts/type1/public/libertine/
-LinBiolinumT.pfb></Users/rakesh/Library/Application Support/MiKTeX/texmfs/insta
-ll/fonts/type1/public/libertine/LinBiolinumTB.pfb></Users/rakesh/Library/Applic
-ation Support/MiKTeX/texmfs/install/fonts/type1/public/libertine/LinLibertineT.
-pfb
+ 27682 strings out of 492946
+ 468274 string characters out of 3124044
+ 727119 words of memory out of 3000000
+ 30664 multiletter control sequences out of 15000+200000
+ 689456 words of font info for 341 fonts, out of 3000000 for 9000
+ 1302 hyphenation exceptions out of 8191
+ 60i,11n,94p,1337b,439s stack positions out of 5000i,500n,10000p,200000b,50000s
+pdfTeX warning (dest): name{subsection.5.2} has been referenced but does not 
+exist, replaced by a fixed one
+
+pdfTeX warning (dest): name{subsection.5.1} has been referenced but does not ex
+ist, replaced by a fixed one
+
+{C:/Users/AASA LATHA/AppData/Local/Programs/MiKTeX 2.9/fonts/enc/dvips/libertin
+e/lbtn_ncsllp.enc}{C:/Users/AASA LATHA/AppData/Local/Programs/MiKTeX 2.9/fonts/
+enc/dvips/newtx/libertinealt.enc}{C:/Users/AASA LATHA/AppData/Local/Programs/Mi
+KTeX 2.9/fonts/enc/dvips/base/8r.enc}{C:/Users/AASA LATHA/AppData/Local/Program
+s/MiKTeX 2.9/fonts/enc/dvips/libertine/lbtn_oexx6f.enc}{C:/Users/AASA LATHA/App
+Data/Local/Programs/MiKTeX 2.9/fonts/enc/dvips/inconsolata/i4-t1-4.enc}{C:/User
+s/AASA LATHA/AppData/Local/Programs/MiKTeX 2.9/fonts/enc/dvips/libertine/lbtn_2
+5tcsq.enc}{C:/Users/AASA LATHA/AppData/Local/Programs/MiKTeX 2.9/fonts/enc/dvip
+s/libertine/lbtn_naooyc.enc}{C:/Users/AASA LATHA/AppData/Local/Programs/MiKTeX 
+2.9/fonts/enc/dvips/libertine/lbtn_7grukw.enc}{C:/Users/AASA LATHA/AppData/Loca
+l/Programs/MiKTeX 2.9/fonts/enc/dvips/libertine/lbtn_nh77jq.enc}{C:/Users/AASA 
+LATHA/AppData/Local/Programs/MiKTeX 2.9/fonts/enc/dvips/libertine/lbtn_76gpa5.e
+nc}<C:/Users/AASA LATHA/AppData/Local/Programs/MiKTeX 2.9/fonts/type1/public/in
+consolata/Inconsolata-zi4r.pfb><C:/Users/AASA LATHA/AppData/Local/Programs/MiKT
+eX 2.9/fonts/type1/public/libertine/LinBiolinumT.pfb><C:/Users/AASA LATHA/AppDa
+ta/Local/Programs/MiKTeX 2.9/fonts/type1/public/libertine/LinBiolinumTB.pfb><C:
+/Users/AASA LATHA/AppData/Local/Programs/MiKTeX 2.9/fonts/type1/public/libertin
+e/LinLibertineT.pfb><C:/Users/AASA LATHA/AppData/Local/Programs/MiKTeX 2.9/font
+s/type1/public/libertine/LinLibertineTB.pfb><C:/Users/AASA LATHA/AppData/Local/
+Programs/MiKTeX 2.9/fonts/type1/public/libertine/LinLibertineTI.pfb><C:/Users/A
+ASA LATHA/AppData/Local/Programs/MiKTeX 2.9/fonts/type1/public/newtx/fxlri-7let
+ters.pfb><C:/Users/AASA LATHA/AppData/Local/Programs/MiKTeX 2.9/fonts/type1/pub
+lic/txfonts/rtxr.pfb><C:/Users/AASA LATHA/AppData/Local/Programs/MiKTeX 2.9/fon
+ts/type1/public/newtx/txexs.pfb><C:/Users/AASA LATHA/AppData/Local/Programs/MiK
+TeX 2.9/fonts/type1/public/newtx/txsys.pfb><C:/Users/AASA LATHA/AppData/Local/P
+rograms/MiKTeX 2.9/fonts/type1/public/newtx/zxlri.pfb>
+Output written on sample-sigconf.pdf (3 pages, 537484 bytes).
+PDF statistics:
+ 279 PDF objects out of 1000 (max. 8388607)
+ 63 named destinations out of 1000 (max. 500000)
+ 48253 words of extra memory for PDF output out of 51595 (max. 10000000)
+
