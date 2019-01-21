@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.19 (MiKTeX 2.9.6930) (preloaded format=pdflatex 2019.1.18)  20 JAN 2019 11:46
+This is pdfTeX, Version 3.14159265-2.6-1.40.19 (MiKTeX 2.9.6930) (preloaded format=pdflatex 2019.1.18)  20 JAN 2019 19:58
 entering extended mode
 **/Users/rakesh/Documents/ASU/Classes/Sem4/SER574/Assignments/SER574_Assignment
 1/sample-sigconf.tex
@@ -1086,9 +1086,7 @@ print/balance.sty"
 Package: balance 1999/02/23 4.3 (PWD)
 \oldvsize=\dimen188
 ) Excluding comment 'screenonly' Include comment 'printonly'
-Include comment 'anonsuppress'
-(/Users/rakesh/Documents/ASU/Classes/Sem4/SER574/Assignments/SER574_Assignment1
-/sample-sigconf.aux)
+Include comment 'anonsuppress' (sample-sigconf.aux)
 \openout1 = `sample-sigconf.aux'.
 
 LaTeX Font Info:    Checking defaults for OML/nxlmi/m/it on input line 20.
@@ -1227,11 +1225,7 @@ Package: gettitlestring 2016/05/16 v1.5 Cleanup title references (HO)
 LaTeX Info: Redefining \ref on input line 20.
 LaTeX Info: Redefining \pageref on input line 20.
 LaTeX Info: Redefining \nameref on input line 20.
-
-(/Users/rakesh/Documents/ASU/Classes/Sem4/SER574/Assignments/SER574_Assignment1
-/sample-sigconf.out)
-(/Users/rakesh/Documents/ASU/Classes/Sem4/SER574/Assignments/SER574_Assignment1
-/sample-sigconf.out)
+ (sample-sigconf.out) (sample-sigconf.out)
 \@outlinefile=\write4
 \openout4 = `sample-sigconf.out'.
 
@@ -1312,9 +1306,9 @@ Package caption Info: Begin \AtBeginDocument code.
 Package caption Info: float package is loaded.
 Package caption Info: End \AtBeginDocument code.
 LaTeX Font Info:    Font shape `T1/LinuxLibertineT-TLF/m/n' will be
-(Font)              scaled to size 17.28pt on input line 56.
+(Font)              scaled to size 17.28pt on input line 53.
 LaTeX Font Info:    Try loading font information for T1+LinuxBiolinumT-TLF on i
-nput line 56.
+nput line 53.
 
 ("/Users/rakesh/Library/Application Support/MiKTeX/texmfs/install/tex/latex/lib
 ertine/T1LinuxBiolinumT-TLF.fd"
@@ -1322,34 +1316,34 @@ File: T1LinuxBiolinumT-TLF.fd 2017/03/20 (autoinst) Font definitions for T1/Lin
 uxBiolinumT-TLF.
 )
 LaTeX Font Info:    Font shape `T1/LinuxBiolinumT-TLF/m/n' will be
-(Font)              scaled to size 17.28pt on input line 56.
+(Font)              scaled to size 17.28pt on input line 53.
 Package microtype Info: Loading generic protrusion settings for font family
 (microtype)             `LinuxBiolinumT-TLF' (encoding: T1).
 (microtype)             For optimal results, create family-specific settings.
 (microtype)             See the microtype manual for details.
 LaTeX Font Info:    Font shape `T1/LinuxBiolinumT-TLF/b/n' will be
-(Font)              scaled to size 17.28pt on input line 56.
+(Font)              scaled to size 17.28pt on input line 53.
 
 
 Class acmart Warning: \vspace should only be used to provide space above/below 
-surrounding objects on input line 56.
+surrounding objects on input line 53.
 
 
 Class acmart Warning: \vspace should only be used to provide space above/below 
-surrounding objects on input line 56.
+surrounding objects on input line 53.
 
 LaTeX Font Info:    Font shape `T1/LinuxLibertineT-TLF/m/n' will be
-(Font)              scaled to size 12.0pt on input line 56.
+(Font)              scaled to size 12.0pt on input line 53.
 LaTeX Font Info:    Font shape `T1/LinuxLibertineT-TLF/m/n' will be
-(Font)              scaled to size 10.0pt on input line 56.
+(Font)              scaled to size 10.0pt on input line 53.
 
 Class acmart Warning: \vspace should only be used to provide space above/below 
-surrounding objects on input line 56.
+surrounding objects on input line 53.
 
 LaTeX Font Info:    Font shape `T1/LinuxLibertineT-TLF/m/it' will be
-(Font)              scaled to size 7.0pt on input line 56.
+(Font)              scaled to size 7.0pt on input line 53.
 LaTeX Font Info:    Try loading font information for TS1+LinuxLibertineT-TLF on
- input line 56.
+ input line 53.
 
 ("/Users/rakesh/Library/Application Support/MiKTeX/texmfs/install/tex/latex/lib
 ertine/TS1LinuxLibertineT-TLF.fd"
@@ -1357,21 +1351,34 @@ File: TS1LinuxLibertineT-TLF.fd 2017/03/20 (autoinst) Font definitions for TS1/
 LinuxLibertineT-TLF.
 )
 LaTeX Font Info:    Font shape `TS1/LinuxLibertineT-TLF/m/n' will be
-(Font)              scaled to size 7.0pt on input line 56.
+(Font)              scaled to size 7.0pt on input line 53.
 Package microtype Info: Loading generic protrusion settings for font family
 (microtype)             `LinuxLibertineT-TLF' (encoding: TS1).
 (microtype)             For optimal results, create family-specific settings.
 (microtype)             See the microtype manual for details.
 LaTeX Font Info:    Font shape `T1/LinuxLibertineT-TLF/b/n' will be
-(Font)              scaled to size 9.0pt on input line 56.
+(Font)              scaled to size 9.0pt on input line 53.
 LaTeX Font Info:    Font shape `T1/LinuxLibertineT-TLF/b/n' will be
-(Font)              scaled to size 10.95pt on input line 56.
+(Font)              scaled to size 10.95pt on input line 53.
+
+
+Class acmart Warning: \vspace should only be used to provide space above/below 
+surrounding objects on input line 53.
+
+LaTeX Font Info:    Font shape `T1/LinuxLibertineT-TLF/m/n' will be
+(Font)              scaled to size 8.0pt on input line 53.
+LaTeX Font Info:    Font shape `T1/LinuxLibertineT-TLF/b/n' will be
+(Font)              scaled to size 8.0pt on input line 53.
+LaTeX Font Info:    Font shape `T1/LinuxLibertineT-TLF/m/it' will be
+(Font)              scaled to size 8.0pt on input line 53.
 LaTeX Font Info:    Font shape `OT1/LinuxLibertineT-TLF/m/n' will be
-(Font)              scaled to size 9.0pt on input line 56.
+(Font)              scaled to size 8.0pt on input line 53.
 Package microtype Info: Loading generic protrusion settings for font family
 (microtype)             `LinuxLibertineT-TLF' (encoding: OT1).
 (microtype)             For optimal results, create family-specific settings.
 (microtype)             See the microtype manual for details.
+LaTeX Font Info:    Font shape `OT1/LinuxLibertineT-TLF/m/n' will be
+(Font)              scaled to size 6.2pt on input line 53.
 
 ("/Users/rakesh/Library/Application Support/MiKTeX/texmfs/install/tex/latex/mic
 rotype/mt-msa.cfg"
@@ -1381,195 +1388,109 @@ File: mt-msa.cfg 2006/02/04 v1.1 microtype config. file: AMS symbols (a) (RS)
 rotype/mt-msb.cfg"
 File: mt-msb.cfg 2005/06/01 v1.0 microtype config. file: AMS symbols (b) (RS)
 )
-LaTeX Font Info:    Font shape `T1/LinuxLibertineT-TLF/m/n' will be
-(Font)              scaled to size 7.3pt on input line 56.
 
-Overfull \hbox (3.29292pt too wide) in paragraph at lines 56--56
-\T1/LinuxLibertineT-TLF/m/n/9 (-20) article formatted for publication by ACM in
- a conference proceedings
+Class acmart Warning: \vspace should only be used to provide space above/below 
+surrounding objects on input line 53.
+
+
+Overfull \hbox (3.39142pt too wide) in paragraph at lines 59--60
+\T1/LinuxLibertineT-TLF/m/n/9 (-20) discuss about the serious issues faced by t
+he organization "Connected
  []
 
 
-Class acmart Warning: \vspace should only be used to provide space above/below 
-surrounding objects on input line 56.
-
-LaTeX Font Info:    Font shape `T1/LinuxLibertineT-TLF/m/n' will be
-(Font)              scaled to size 8.0pt on input line 56.
-LaTeX Font Info:    Font shape `T1/LinuxLibertineT-TLF/b/n' will be
-(Font)              scaled to size 8.0pt on input line 56.
-LaTeX Font Info:    Font shape `T1/LinuxLibertineT-TLF/m/it' will be
-(Font)              scaled to size 8.0pt on input line 56.
-LaTeX Font Info:    Font shape `OT1/LinuxLibertineT-TLF/m/n' will be
-(Font)              scaled to size 8.0pt on input line 56.
-LaTeX Font Info:    Font shape `OT1/LinuxLibertineT-TLF/m/n' will be
-(Font)              scaled to size 6.2pt on input line 56.
-
-Class acmart Warning: \vspace should only be used to provide space above/below 
-surrounding objects on input line 56.
-
-
-Package natbib Warning: Citation `Alia01' on page 1 undefined on input line 62.
-
-
-
-Overfull \hbox (5.93732pt too wide) in paragraph at lines 84--85
-\T1/LinuxLibertineT-TLF/m/n/9 (-20) delivered in increments.The incremental del
-ivery is done by balancing
+Overfull \hbox (6.03873pt too wide) in paragraph at lines 59--60
+\T1/LinuxLibertineT-TLF/m/n/9 (-20) Commons" while trying to develop product ba
+sed on a new innovative
  []
 
-[1.1{/Users/rakesh/Library/Application Support/MiKTeX/texmfs/data/pdftex/config
-/pdftex.map}
+
+Overfull \hbox (11.24016pt too wide) in paragraph at lines 63--64
+\T1/LinuxLibertineT-TLF/m/n/9 (-20) rules/guidelines that needs to be followed 
+for the effective collaboration
+ []
+
+LaTeX Font Info:    Font shape `OT1/LinuxLibertineT-TLF/m/n' will be
+(Font)              scaled to size 9.0pt on input line 66.
+
+Underfull \vbox (badness 3323) has occurred while \output is active []
+
+ [1.1{/Users/rakesh/Library/Application Support/MiKTeX/texmfs/data/pdftex/confi
+g/pdftex.map}
 
 ]
-Overfull \hbox (6.1546pt too wide) in paragraph at lines 86--87
+Overfull \hbox (16.16626pt too wide) in paragraph at lines 75--76
+\T1/LinuxLibertineT-TLF/m/n/9 (-20) The departmental silos are a huge hindrance
+ in the overall understanding
+ []
+
+
+Overfull \hbox (6.1546pt too wide) in paragraph at lines 84--85
 []\T1/LinuxLibertineT-TLF/m/n/9 (-20) Emergent Design - Agile comes with a comp
 letely evolutionary
  []
 
 
-Overfull \hbox (8.4692pt too wide) in paragraph at lines 87--88
+Overfull \hbox (8.4692pt too wide) in paragraph at lines 86--87
 []\T1/LinuxLibertineT-TLF/m/n/9 (-20) Intentional architecture - Set of planned
  architectural initiatives
  []
 
 
-Overfull \hbox (7.07458pt too wide) in paragraph at lines 93--94
+Overfull \hbox (4.37665pt too wide) in paragraph at lines 90--91
+\T1/LinuxLibertineT-TLF/m/n/9 (-20) architectures, requirements, and designs em
+erge from self-organizing
+ []
+
+
+Overfull \hbox (2.66035pt too wide) in paragraph at lines 90--91
+\T1/LinuxLibertineT-TLF/m/n/9 (-20) teams." Teams working on the software evolv
+e the design accordingly
+ []
+
+
+Overfull \hbox (19.58008pt too wide) in paragraph at lines 90--91
+\T1/LinuxLibertineT-TLF/m/n/9 (-20) with the current set of requirements. The b
+est architectures, requirements,
+ []
+
+
+Overfull \hbox (7.07458pt too wide) in paragraph at lines 92--93
 []\T1/LinuxLibertineT-TLF/m/n/9 (-20) Agility and the design in Agile is possib
 le through greater discipline
  []
 
-
-Underfull \vbox (badness 5741) has occurred while \output is active []
-
-
-
-Class acmart Warning: \vspace should only be used to provide space above/below 
-surrounding objects on input line 115.
-
-
-Class acmart Warning: \vspace should only be used to provide space above/below 
-surrounding objects on input line 115.
-
-LaTeX Font Info:    Try loading font information for T1+zi4 on input line 121.
-
-("/Users/rakesh/Library/Application Support/MiKTeX/texmfs/install/tex/latex/inc
-onsolata/t1zi4.fd"
-File: t1zi4.fd 2018/01/14 T1/zi4 (Inconsolata)
-)
-LaTeX Font Info:    Font shape `T1/zi4/m/n' will be
-(Font)              scaled to size 9.0pt on input line 121.
-Package microtype Info: Loading generic protrusion settings for font family
-(microtype)             `zi4' (encoding: T1).
-(microtype)             For optimal results, create family-specific settings.
-(microtype)             See the microtype manual for details.
-Package microtype Info: Character `textendash ' is missing
-(microtype)             in font `T1/zi4/m/n/9'.
-(microtype)             Ignoring protrusion settings for this character.
-Package microtype Info: Character `textemdash ' is missing
-(microtype)             in font `T1/zi4/m/n/9'.
-(microtype)             Ignoring protrusion settings for this character.
-
-Overfull \hbox (2.14551pt too wide) in paragraph at lines 164--167
-\T1/LinuxLibertineT-TLF/m/n/9 (-20) Notice how it is formatted somewhat differe
-ntly in the \T1/LinuxLibertineT-TLF/b/n/9 displaymath 
- []
-
+(sample-sigconf.bbl
 LaTeX Font Info:    Font shape `T1/LinuxBiolinumT-TLF/m/n' will be
-(Font)              scaled to size 9.0pt on input line 174.
-[2.2]
-LaTeX Font Info:    Font shape `T1/LinuxLibertineT-TLF/m/sc' will be
-(Font)              scaled to size 9.0pt on input line 185.
-
-Overfull \hbox (1.91925pt too wide) in paragraph at lines 194--195
-[]\T1/LinuxLibertineT-TLF/m/n/9 (-20) Citations and references are numbered by 
-default. A small number
- []
-
-
-(/Users/rakesh/Documents/ASU/Classes/Sem4/SER574/Assignments/SER574_Assignment1
-/sample-sigconf.bbl
-LaTeX Info: Redefining \tempurl on input line 65.
-LaTeX Info: Redefining \tempurl on input line 80.
-LaTeX Info: Redefining \tempurl on input line 127.
-LaTeX Info: Redefining \tempurl on input line 147.
-LaTeX Info: Redefining \tempurl on input line 162.
-LaTeX Info: Redefining \tempurl on input line 176.
-LaTeX Info: Redefining \tempurl on input line 218.
-LaTeX Info: Redefining \tempurl on input line 265.
-LaTeX Info: Redefining \tempurl on input line 282.
-LaTeX Font Info:    Font shape `T1/LinuxLibertineT-TLF/m/it' will be
-(Font)              scaled to size 5.5pt on input line 311.
-LaTeX Info: Redefining \tempurl on input line 327.
-LaTeX Info: Redefining \tempurl on input line 341.
-LaTeX Info: Redefining \tempurl on input line 353.
-
-Underfull \vbox (badness 10000) has occurred while \output is active []
-
- [3.3]
-LaTeX Info: Redefining \tempurl on input line 366.
-LaTeX Info: Redefining \tempurl on input line 437.
-LaTeX Info: Redefining \tempurl on input line 452.
-LaTeX Info: Redefining \tempurl on input line 464.
-LaTeX Info: Redefining \tempurl on input line 476.
-LaTeX Info: Redefining \tempurl on input line 490.
-)
-
-Package natbib Warning: There were undefined citations.
-
-
-Overfull \vbox (1.46599pt too high) has occurred while \output is active []
-
-
-[4.4]
-Package atveryend Info: Empty hook `BeforeClearDocument' on input line 213.
-Package atveryend Info: Empty hook `AfterLastShipout' on input line 213.
+(Font)              scaled to size 9.0pt on input line 5.
+ [2.2]
+LaTeX Info: Redefining \tempurl on input line 60.
+) [3.3]
+Package atveryend Info: Empty hook `BeforeClearDocument' on input line 117.
+Package atveryend Info: Empty hook `AfterLastShipout' on input line 117.
  (sample-sigconf.aux)
-Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 213.
-Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 213.
-
-
-Package rerunfilecheck Warning: File `sample-sigconf.out' has changed.
-(rerunfilecheck)                Rerun to get outlines right
-(rerunfilecheck)                or use package `bookmark'.
-
-Package rerunfilecheck Info: Checksums for `sample-sigconf.out':
-(rerunfilecheck)             Before: 50BAADD62B744A7B5B3237E43A66834D;4065
-(rerunfilecheck)             After:  D50AF041733D2827960AF43A6D852C30;3978.
+Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 117.
+Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 117.
+Package rerunfilecheck Info: File `sample-sigconf.out' has not changed.
+(rerunfilecheck)             Checksum: F72BE8A69FCD395E22B3FF88F97167A3;3175.
  ) 
 Here is how much of TeX's memory you used:
- 27648 strings out of 494865
- 470745 string characters out of 3176569
- 720104 words of memory out of 3000000
- 30396 multiletter control sequences out of 15000+200000
- 683015 words of font info for 319 fonts, out of 3000000 for 9000
+ 27309 strings out of 494865
+ 464009 string characters out of 3176569
+ 712104 words of memory out of 3000000
+ 30253 multiletter control sequences out of 15000+200000
+ 643887 words of font info for 204 fonts, out of 3000000 for 9000
  162 hyphenation exceptions out of 8191
- 60i,12n,94p,1461b,621s stack positions out of 5000i,500n,10000p,200000b,50000s
-pdfTeX warning (dest): name{section.9} has been referenced but does not exist
-, replaced by a fixed one
-
-pdfTeX warning (dest): name{subsection.8.2} has been referenced but does not ex
-ist, replaced by a fixed one
-
-pdfTeX warning (dest): name{subsection.8.1} has been referenced but does not ex
-ist, replaced by a fixed one
-
-{/Users/rakesh/Library/Application Support/MiKTeX/texmfs/install/fonts/enc/dvip
-s/libertine/lbtn_ncsllp.enc}{/Users/rakesh/Library/Application Support/MiKTeX/t
-exmfs/install/fonts/enc/dvips/newtx/libertinealt.enc}{/Users/rakesh/Library/App
-lication Support/MiKTeX/texmfs/install/fonts/enc/dvips/base/8r.enc}{/Users/rake
-sh/Library/Application Support/MiKTeX/texmfs/install/fonts/enc/dvips/libertine/
-lbtn_oexx6f.enc}{/Users/rakesh/Library/Application Support/MiKTeX/texmfs/instal
-l/fonts/enc/dvips/inconsolata/i4-t1-4.enc}{/Users/rakesh/Library/Application Su
-pport/MiKTeX/texmfs/install/fonts/enc/dvips/libertine/lbtn_25tcsq.enc}{/Users/r
-akesh/Library/Application Support/MiKTeX/texmfs/install/fonts/enc/dvips/liberti
-ne/lbtn_naooyc.enc}{/Users/rakesh/Library/Application Support/MiKTeX/texmfs/ins
-tall/fonts/enc/dvips/libertine/lbtn_7grukw.enc}{/Users/rakesh/Library/Applicati
-on Support/MiKTeX/texmfs/install/fonts/enc/dvips/libertine/lbtn_nh77jq.enc}{/Us
-ers/rakesh/Library/Application Support/MiKTeX/texmfs/install/fonts/enc/dvips/li
-bertine/lbtn_76gpa5.enc}</Users/rakesh/Library/Application Support/MiKTeX/texmf
-s/install/fonts/type1/public/inconsolata/Inconsolata-zi4r.pfb></Users/rakesh/Li
-brary/Application Support/MiKTeX/texmfs/install/fonts/type1/public/libertine/Li
-nBiolinumT.pfb></Users/rakesh/Library/Application Support/MiKTeX/texmfs/install
-/fonts/type1/public/libertine/LinBiolinumTB.pfb></Users/rakesh/Library/Applicat
-ion Support/MiKTeX/texmfs/install/fonts/type1/public/libertine/LinLibertineT.pf
-b
+ 60i,11n,94p,1532b,407s stack positions out of 5000i,500n,10000p,200000b,50000s
+{/Users/rakesh/Library/Application Support/MiKTeX/texmfs/install/fonts/enc/dv
+ips/libertine/lbtn_25tcsq.enc}{/Users/rakesh/Library/Application Support/MiKTeX
+/texmfs/install/fonts/enc/dvips/libertine/lbtn_naooyc.enc}{/Users/rakesh/Librar
+y/Application Support/MiKTeX/texmfs/install/fonts/enc/dvips/libertine/lbtn_7gru
+kw.enc}{/Users/rakesh/Library/Application Support/MiKTeX/texmfs/install/fonts/e
+nc/dvips/libertine/lbtn_nh77jq.enc}{/Users/rakesh/Library/Application Support/M
+iKTeX/texmfs/install/fonts/enc/dvips/libertine/lbtn_76gpa5.enc}</Users/rakesh/L
+ibrary/Application Support/MiKTeX/texmfs/install/fonts/type1/public/libertine/L
+inBiolinumT.pfb></Users/rakesh/Library/Application Support/MiKTeX/texmfs/instal
+l/fonts/type1/public/libertine/LinBiolinumTB.pfb></Users/rakesh/Library/Applica
+tion Support/MiKTeX/texmfs/install/fonts/type1/public/libertine/LinLibertineT.p
+fb
