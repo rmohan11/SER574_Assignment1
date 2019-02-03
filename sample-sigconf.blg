@@ -1,7 +1,6 @@
 This is BibTeX, Version 0.99dThe top-level auxiliary file: sample-sigconf.aux
 The style file: ACM-Reference-Format.bst
 Database file #1: reference.bib
-Warning--I didn't find a database entry for "Eoin01"
 Warning--no key, author in Gsa01
 Warning--no author, editor, organization, or key in Gsa01
 Warning--to sort, need author or key in Gsa01
@@ -18,4 +17,9 @@ Warning--empty author in Saf01
 Warning--no key, author in Gsa01
 Warning--no author, editor, organization, or key in Gsa01
 Warning--empty author in Gsa01
-(There were 17 warnings)
+Warning--no journal in Eoin1
+Warning--no number and no volume in Eoin1
+Warning--articleno or eid field, but no numpages field, in Eoin1
+Warning--page numbers missing in both pages and numpages fields in Eoin1
+Warning--articleno or eid, but no pages or numpages field in Eoin1
+(There were 21 warnings)

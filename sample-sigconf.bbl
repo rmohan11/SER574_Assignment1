@@ -2,7 +2,7 @@
 %%% Do NOT edit. File created by BibTeX with style
 %%% ACM-Reference-Format-Journals [18-Jan-2012].
 
-\begin{thebibliography}{4}
+\begin{thebibliography}{5}
 
 %%% ====================================================================
 %%% NOTE TO THE USER: you can override these defaults by providing
@@ -85,6 +85,21 @@ Retrieved Jan 01, 2017 from \tempurl}
 \url{http://hbr.org/2018/05/how-to-make-sure-agile-teams-can-work-together}
 \showURL{%
 Retrieved May 15, 2018 from \tempurl}
+
+
+\bibitem[\protect\citeauthoryear{Woods}{Woods}{2015}]%
+        {Eoin1}
+\bibfield{author}{\bibinfo{person}{Eoin Woods}.}
+  \bibinfo{year}{2015}\natexlab{}.
+\newblock \showarticletitle{Aligning Architecture Work with Agile Teams}.
+\newblock , Article \bibinfo{articleno}{15} (\bibinfo{date}{May}
+  \bibinfo{year}{2015}).
+\newblock
+\showISSN{0740 - 7459}
+\urldef\tempurl%
+\url{https://www.computer.org/csdl/mags/so/2015/05/mso2015050024.pdf}
+\showURL{%
+\tempurl}
 
 
 \end{thebibliography}
